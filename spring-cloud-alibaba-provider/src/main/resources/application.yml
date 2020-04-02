@@ -1,0 +1,15 @@
+spring:
+  application:
+    name: nacos-provider
+  cloud:
+    nacos:
+      server-addr: 192.168.47.128:8848
+server:
+  port: 8081
+
+management:
+  # ¶Ëµã¼ì²é
+  endpoints:
+    web:
+      exposure:
+        include: "*"
