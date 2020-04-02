@@ -8,7 +8,6 @@ server:
   port: 8081
 
 management:
-  # ¶Ëµã¼ì²é
   endpoints:
     web:
       exposure:

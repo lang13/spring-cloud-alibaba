@@ -1,5 +1,6 @@
 package com.learn.springcloud.alibaba.provider;
 
+import org.springframework.beans.factory.annotation.Value;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
@@ -11,15 +12,18 @@ import org.springframework.web.bind.annotation.RestController;
 @EnableDiscoveryClient
 public class SpringCloudAlibabaProviderApplication {
 
+    @Value("${server.port}")
+    private String port;
+
     public static void main(String[] args) {
         SpringApplication.run(SpringCloudAlibabaProviderApplication.class, args);
     }
 
     @RestController
     public class EchoController {
-        @GetMapping(value = "/echo/{message}")
+        @GetMapping(value = "/hi/{message}")
         public String echo(@PathVariable String message) {
-            return "Hello Nacos Discovery " + message;
+            return "你好, "+ "这里是: "  + port + "\n你发送的信息是: " + message;
         }
     }
 }
