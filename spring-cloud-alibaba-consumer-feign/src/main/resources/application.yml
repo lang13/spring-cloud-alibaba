@@ -3,7 +3,14 @@ spring:
     name: nacos-consumer-feign
   cloud:
     nacos:
-      server-addr: 192.168.47.128:8848
+      server-addr: 192.168.47.1:8848
+    sentinel:
+      transport:
+        dashboard: localhost:8888
+feign:
+  sentinel:
+    enabled: true
+
 server:
   port: 8084
 
@@ -12,3 +19,4 @@ management:
     web:
       exposure:
         include: "*"
+
