@@ -28,3 +28,23 @@
 
 2020-04-03 09:22:38,529 INFO raft peers changed: [{"adWeight":0,"alive":false,"ip":"192.168.47.1","key":"192.168.47.1:8848","lastRefTime":0,"lastRefTimeStr":"","servePort":8848,"site":"unknown","weight":1}]
 
+2020-04-03 09:31:37,202 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@nacos-consumer-feign
+
+2020-04-03 09:33:34,715 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@nacos-provider
+
+2020-04-03 09:33:51,807 INFO add task com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@nacos-consumer-feign
+
+2020-04-03 09:33:51,807 INFO remove task com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@nacos-consumer-feign
+
+2020-04-03 09:33:51,808 INFO [RAFT-NOTIFIER] datum is deleted, key: com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@nacos-consumer-feign
+
+2020-04-03 09:33:51,808 INFO data removed, key=com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@nacos-consumer-feign, term=1
+
+2020-04-03 09:33:51,808 INFO add task com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@nacos-consumer-feign
+
+2020-04-03 09:33:51,808 INFO data removed, key=com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@nacos-consumer-feign, term=1
+
+2020-04-03 09:33:51,818 INFO remove task com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@nacos-consumer-feign
+
+2020-04-03 09:36:25,622 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@nacos-consumer
+
