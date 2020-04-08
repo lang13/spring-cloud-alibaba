@@ -1,22 +1,244 @@
-2020-04-03 09:31:38,253 INFO DEFAULT_GROUP@@nacos-consumer-feign is changed, add it to push queue.
+2020-04-07 14:10:57,284 INFO DEFAULT_GROUP@@nacos-consumer-feign is changed, add it to push queue.
 
-2020-04-03 09:33:35,718 INFO DEFAULT_GROUP@@nacos-provider is changed, add it to push queue.
+2020-04-07 14:14:42,261 INFO DEFAULT_GROUP@@nacos-consumer-feign is changed, add it to push queue.
 
-2020-04-03 09:33:48,223 INFO DEFAULT_GROUP@@nacos-consumer-feign is changed, add it to push queue.
+2020-04-07 14:14:57,494 INFO DEFAULT_GROUP@@nacos-consumer-feign is changed, add it to push queue.
 
-2020-04-03 09:34:38,404 INFO DEFAULT_GROUP@@nacos-provider is changed, add it to push queue.
+2020-04-07 14:35:18,436 INFO DEFAULT_GROUP@@nacos-provider is changed, add it to push queue.
 
-2020-04-03 09:36:26,624 INFO DEFAULT_GROUP@@nacos-consumer is changed, add it to push queue.
+2020-04-07 14:38:48,753 INFO DEFAULT_GROUP@@nacos-consumer is changed, add it to push queue.
 
-2020-04-03 10:01:01,018 INFO DEFAULT_GROUP@@nacos-provider is changed, add it to push queue.
+2020-04-07 14:42:48,510 INFO DEFAULT_GROUP@@nacos-provider is changed, add it to push queue.
 
-2020-04-03 10:01:01,868 INFO DEFAULT_GROUP@@nacos-consumer is changed, add it to push queue.
+2020-04-07 14:42:48,512 INFO serviceName: DEFAULT_GROUP@@nacos-provider changed, schedule push for: 192.168.47.1:64475, agent: Nacos-Java-Client:v1.1.4, key: 192.168.47.1,64475,143424192260600
 
-2020-04-03 10:01:06,018 INFO DEFAULT_GROUP@@nacos-provider is changed, add it to push queue.
+2020-04-07 14:42:48,513 INFO send udp packet: 192.168.47.1,64475,143424192260600
 
-2020-04-03 10:01:16,155 INFO DEFAULT_GROUP@@nacos-provider is changed, add it to push queue.
+2020-04-07 14:42:48,522 INFO received ack: {"type": "push-ack", "lastRefTime":"143424192260600", "data":""} from: 192.168.47.1:64475, cost: 9 ms, unacked: 0, total push: 1
 
-2020-04-03 10:01:16,875 INFO DEFAULT_GROUP@@nacos-consumer is changed, add it to push queue.
+2020-04-07 14:43:03,517 INFO DEFAULT_GROUP@@nacos-provider is changed, add it to push queue.
 
-2020-04-03 10:01:21,145 INFO DEFAULT_GROUP@@nacos-provider is changed, add it to push queue.
+2020-04-07 14:43:03,517 INFO serviceName: DEFAULT_GROUP@@nacos-provider changed, schedule push for: 192.168.47.1:64475, agent: Nacos-Java-Client:v1.1.4, key: 192.168.47.1,64475,143439199214700
+
+2020-04-07 14:43:03,517 INFO send udp packet: 192.168.47.1,64475,143439199214700
+
+2020-04-07 14:43:03,522 INFO received ack: {"type": "push-ack", "lastRefTime":"143439199214700", "data":""} from: 192.168.47.1:64475, cost: 5 ms, unacked: 0, total push: 2
+
+2020-04-07 14:43:43,786 INFO DEFAULT_GROUP@@nacos-provider is changed, add it to push queue.
+
+2020-04-07 14:43:43,786 INFO serviceName: DEFAULT_GROUP@@nacos-provider changed, schedule push for: 192.168.47.1:64475, agent: Nacos-Java-Client:v1.1.4, key: 192.168.47.1,64475,143479468179900
+
+2020-04-07 14:43:43,786 INFO send udp packet: 192.168.47.1,64475,143479468179900
+
+2020-04-07 14:43:43,792 INFO received ack: {"type": "push-ack", "lastRefTime":"143479468179900", "data":""} from: 192.168.47.1:64475, cost: 6 ms, unacked: 0, total push: 3
+
+2020-04-07 14:45:11,299 INFO DEFAULT_GROUP@@nacos-provider is changed, add it to push queue.
+
+2020-04-07 14:45:11,300 INFO serviceName: DEFAULT_GROUP@@nacos-provider changed, schedule push for: 192.168.47.1:64475, agent: Nacos-Java-Client:v1.1.4, key: 192.168.47.1,64475,143566981742300
+
+2020-04-07 14:45:11,300 INFO send udp packet: 192.168.47.1,64475,143566981742300
+
+2020-04-07 14:45:11,310 INFO received ack: {"type": "push-ack", "lastRefTime":"143566981742300", "data":""} from: 192.168.47.1:64475, cost: 10 ms, unacked: 0, total push: 4
+
+2020-04-07 14:46:50,740 INFO DEFAULT_GROUP@@nacos-consumer is changed, add it to push queue.
+
+2020-04-07 14:48:15,578 INFO DEFAULT_GROUP@@nacos-consumer is changed, add it to push queue.
+
+2020-04-07 14:54:03,905 INFO DEFAULT_GROUP@@nacos-consumer is changed, add it to push queue.
+
+2020-04-07 14:54:18,914 INFO DEFAULT_GROUP@@nacos-consumer is changed, add it to push queue.
+
+2020-04-07 14:58:08,208 INFO DEFAULT_GROUP@@nacos-provider is changed, add it to push queue.
+
+2020-04-07 14:58:09,891 INFO DEFAULT_GROUP@@nacos-provider is changed, add it to push queue.
+
+2020-04-07 15:18:06,162 INFO DEFAULT_GROUP@@nacos-consumer-feign is changed, add it to push queue.
+
+2020-04-07 15:18:41,133 INFO DEFAULT_GROUP@@nacos-consumer-feign is changed, add it to push queue.
+
+2020-04-07 15:18:51,230 INFO DEFAULT_GROUP@@nacos-consumer-feign is changed, add it to push queue.
+
+2020-04-07 15:36:15,671 INFO DEFAULT_GROUP@@nacos-consumer-feign is changed, add it to push queue.
+
+2020-04-07 15:45:30,371 INFO DEFAULT_GROUP@@nacos-consumer-feign is changed, add it to push queue.
+
+2020-04-07 15:48:21,643 INFO DEFAULT_GROUP@@nacos-consumer-feign is changed, add it to push queue.
+
+2020-04-07 15:49:31,536 INFO DEFAULT_GROUP@@nacos-consumer-feign is changed, add it to push queue.
+
+2020-04-07 15:52:27,624 INFO DEFAULT_GROUP@@nacos-consumer-feign is changed, add it to push queue.
+
+2020-04-07 15:55:46,610 INFO DEFAULT_GROUP@@nacos-consumer-feign is changed, add it to push queue.
+
+2020-04-07 15:55:58,186 INFO DEFAULT_GROUP@@nacos-consumer-feign is changed, add it to push queue.
+
+2020-04-07 15:56:03,183 INFO DEFAULT_GROUP@@nacos-consumer-feign is changed, add it to push queue.
+
+2020-04-07 15:58:51,801 INFO DEFAULT_GROUP@@nacos-consumer-feign is changed, add it to push queue.
+
+2020-04-07 15:59:23,544 INFO DEFAULT_GROUP@@nacos-provider is changed, add it to push queue.
+
+2020-04-07 15:59:23,548 INFO serviceName: DEFAULT_GROUP@@nacos-provider changed, schedule push for: 192.168.47.1:59061, agent: Nacos-Java-Client:v1.1.4, key: 192.168.47.1,59061,148019227955100
+
+2020-04-07 15:59:23,548 INFO send udp packet: 192.168.47.1,59061,148019227955100
+
+2020-04-07 15:59:23,560 INFO received ack: {"type": "push-ack", "lastRefTime":"148019227955100", "data":""} from: 192.168.47.1:59061, cost: 12 ms, unacked: 0, total push: 1
+
+2020-04-07 16:00:18,548 INFO DEFAULT_GROUP@@nacos-provider is changed, add it to push queue.
+
+2020-04-07 16:00:18,548 INFO serviceName: DEFAULT_GROUP@@nacos-provider changed, schedule push for: 192.168.47.1:59061, agent: Nacos-Java-Client:v1.1.4, key: 192.168.47.1,59061,148074230140000
+
+2020-04-07 16:00:18,548 INFO send udp packet: 192.168.47.1,59061,148074230140000
+
+2020-04-07 16:00:18,549 INFO received ack: {"type": "push-ack", "lastRefTime":"148074230140000", "data":""} from: 192.168.47.1:59061, cost: 1 ms, unacked: 0, total push: 2
+
+2020-04-07 16:00:33,555 INFO DEFAULT_GROUP@@nacos-provider is changed, add it to push queue.
+
+2020-04-07 16:00:33,555 INFO serviceName: DEFAULT_GROUP@@nacos-provider changed, schedule push for: 192.168.47.1:59061, agent: Nacos-Java-Client:v1.1.4, key: 192.168.47.1,59061,148089237187800
+
+2020-04-07 16:00:33,555 INFO send udp packet: 192.168.47.1,59061,148089237187800
+
+2020-04-07 16:00:33,556 INFO received ack: {"type": "push-ack", "lastRefTime":"148089237187800", "data":""} from: 192.168.47.1:59061, cost: 1 ms, unacked: 0, total push: 3
+
+2020-04-07 16:07:22,264 INFO DEFAULT_GROUP@@nacos-consumer-feign is changed, add it to push queue.
+
+2020-04-07 16:13:13,337 INFO DEFAULT_GROUP@@nacos-consumer-feign is changed, add it to push queue.
+
+2020-04-07 16:15:31,161 INFO DEFAULT_GROUP@@nacos-consumer-feign is changed, add it to push queue.
+
+2020-04-07 16:16:09,532 INFO DEFAULT_GROUP@@nacos-consumer-feign is changed, add it to push queue.
+
+2020-04-07 16:17:18,957 INFO DEFAULT_GROUP@@nacos-consumer-feign is changed, add it to push queue.
+
+2020-04-07 16:18:59,955 INFO DEFAULT_GROUP@@nacos-provider is changed, add it to push queue.
+
+2020-04-07 16:18:59,955 INFO serviceName: DEFAULT_GROUP@@nacos-provider changed, schedule push for: 192.168.47.1:61410, agent: Nacos-Java-Client:v1.1.4, key: 192.168.47.1,61410,149195637894900
+
+2020-04-07 16:18:59,956 INFO send udp packet: 192.168.47.1,61410,149195637894900
+
+2020-04-07 16:18:59,968 INFO received ack: {"type": "push-ack", "lastRefTime":"149195637894900", "data":""} from: 192.168.47.1:61410, cost: 11 ms, unacked: 0, total push: 4
+
+2020-04-07 16:19:48,766 INFO DEFAULT_GROUP@@nacos-provider is changed, add it to push queue.
+
+2020-04-07 16:19:48,766 INFO serviceName: DEFAULT_GROUP@@nacos-provider changed, schedule push for: 192.168.47.1:61410, agent: Nacos-Java-Client:v1.1.4, key: 192.168.47.1,61410,149244448898900
+
+2020-04-07 16:19:48,767 INFO send udp packet: 192.168.47.1,61410,149244448898900
+
+2020-04-07 16:19:48,768 INFO received ack: {"type": "push-ack", "lastRefTime":"149244448898900", "data":""} from: 192.168.47.1:61410, cost: 1 ms, unacked: 0, total push: 5
+
+2020-04-07 16:20:03,774 INFO DEFAULT_GROUP@@nacos-provider is changed, add it to push queue.
+
+2020-04-07 16:20:03,774 INFO serviceName: DEFAULT_GROUP@@nacos-provider changed, schedule push for: 192.168.47.1:61410, agent: Nacos-Java-Client:v1.1.4, key: 192.168.47.1,61410,149259456361900
+
+2020-04-07 16:20:03,774 INFO send udp packet: 192.168.47.1,61410,149259456361900
+
+2020-04-07 16:20:03,780 INFO received ack: {"type": "push-ack", "lastRefTime":"149259456361900", "data":""} from: 192.168.47.1:61410, cost: 6 ms, unacked: 0, total push: 6
+
+2020-04-07 16:20:56,900 INFO DEFAULT_GROUP@@nacos-consumer-feign is changed, add it to push queue.
+
+2020-04-07 16:21:11,906 INFO DEFAULT_GROUP@@nacos-consumer-feign is changed, add it to push queue.
+
+2020-04-07 16:23:40,259 INFO DEFAULT_GROUP@@nacos-consumer-feign is changed, add it to push queue.
+
+2020-04-07 16:27:16,808 INFO DEFAULT_GROUP@@nacos-consumer-feign is changed, add it to push queue.
+
+2020-04-07 16:29:39,394 INFO DEFAULT_GROUP@@nacos-provider is changed, add it to push queue.
+
+2020-04-07 16:29:39,394 INFO serviceName: DEFAULT_GROUP@@nacos-provider changed, schedule push for: 192.168.47.1:64186, agent: Nacos-Java-Client:v1.1.4, key: 192.168.47.1,64186,149835076774000
+
+2020-04-07 16:29:39,394 INFO send udp packet: 192.168.47.1,64186,149835076774000
+
+2020-04-07 16:29:39,407 INFO received ack: {"type": "push-ack", "lastRefTime":"149835076774000", "data":""} from: 192.168.47.1:64186, cost: 13 ms, unacked: 0, total push: 7
+
+2020-04-07 16:32:58,581 INFO DEFAULT_GROUP@@nacos-provider is changed, add it to push queue.
+
+2020-04-07 16:32:58,581 INFO serviceName: DEFAULT_GROUP@@nacos-provider changed, schedule push for: 192.168.47.1:64186, agent: Nacos-Java-Client:v1.1.4, key: 192.168.47.1,64186,150034263619900
+
+2020-04-07 16:32:58,581 INFO send udp packet: 192.168.47.1,64186,150034263619900
+
+2020-04-07 16:32:58,582 INFO received ack: {"type": "push-ack", "lastRefTime":"150034263619900", "data":""} from: 192.168.47.1:64186, cost: 1 ms, unacked: 0, total push: 8
+
+2020-04-07 16:34:48,923 INFO DEFAULT_GROUP@@nacos-provider is changed, add it to push queue.
+
+2020-04-07 16:34:52,046 INFO DEFAULT_GROUP@@nacos-consumer-feign is changed, add it to push queue.
+
+2020-04-07 16:35:03,933 INFO DEFAULT_GROUP@@nacos-provider is changed, add it to push queue.
+
+2020-04-07 16:35:07,053 INFO DEFAULT_GROUP@@nacos-consumer-feign is changed, add it to push queue.
+
+2020-04-07 16:37:55,561 INFO DEFAULT_GROUP@@nacos-provider is changed, add it to push queue.
+
+2020-04-07 16:39:35,973 INFO DEFAULT_GROUP@@nacos-provider is changed, add it to push queue.
+
+2020-04-07 16:41:32,578 INFO DEFAULT_GROUP@@nacos-provider is changed, add it to push queue.
+
+2020-04-07 16:41:58,093 INFO DEFAULT_GROUP@@nacos-consumer-feign is changed, add it to push queue.
+
+2020-04-07 16:44:54,035 INFO DEFAULT_GROUP@@nacos-consumer-feign is changed, add it to push queue.
+
+2020-04-07 16:51:49,101 INFO DEFAULT_GROUP@@nacos-provider is changed, add it to push queue.
+
+2020-04-07 16:51:52,224 INFO DEFAULT_GROUP@@nacos-consumer-feign is changed, add it to push queue.
+
+2020-04-07 16:52:04,107 INFO DEFAULT_GROUP@@nacos-provider is changed, add it to push queue.
+
+2020-04-07 16:52:07,227 INFO DEFAULT_GROUP@@nacos-consumer-feign is changed, add it to push queue.
+
+2020-04-07 16:52:26,889 INFO DEFAULT_GROUP@@nacos-consumer-feign is changed, add it to push queue.
+
+2020-04-07 18:09:23,045 INFO DEFAULT_GROUP@@nacos-consumer-feign is changed, add it to push queue.
+
+2020-04-07 18:09:38,069 INFO DEFAULT_GROUP@@nacos-consumer-feign is changed, add it to push queue.
+
+2020-04-07 18:09:48,465 INFO DEFAULT_GROUP@@nacos-consumer-feign is changed, add it to push queue.
+
+2020-04-07 18:22:13,186 INFO DEFAULT_GROUP@@nacos-consumer-feign is changed, add it to push queue.
+
+2020-04-07 18:22:28,193 INFO DEFAULT_GROUP@@nacos-consumer-feign is changed, add it to push queue.
+
+2020-04-07 18:25:16,701 INFO DEFAULT_GROUP@@nacos-provider is changed, add it to push queue.
+
+2020-04-07 18:28:41,453 INFO DEFAULT_GROUP@@nacos-consumer-feign is changed, add it to push queue.
+
+2020-04-07 18:32:25,111 INFO DEFAULT_GROUP@@nacos-provider is changed, add it to push queue.
+
+2020-04-07 18:32:25,112 INFO serviceName: DEFAULT_GROUP@@nacos-provider changed, schedule push for: 192.168.47.1:60751, agent: Nacos-Java-Client:v1.1.4, key: 192.168.47.1,60751,157200793660200
+
+2020-04-07 18:32:25,112 INFO send udp packet: 192.168.47.1,60751,157200793660200
+
+2020-04-07 18:32:25,119 INFO received ack: {"type": "push-ack", "lastRefTime":"157200793660200", "data":""} from: 192.168.47.1:60751, cost: 7 ms, unacked: 0, total push: 9
+
+2020-04-07 18:32:40,117 INFO DEFAULT_GROUP@@nacos-provider is changed, add it to push queue.
+
+2020-04-07 18:32:40,117 INFO serviceName: DEFAULT_GROUP@@nacos-provider changed, schedule push for: 192.168.47.1:60751, agent: Nacos-Java-Client:v1.1.4, key: 192.168.47.1,60751,157215799873600
+
+2020-04-07 18:32:40,117 INFO send udp packet: 192.168.47.1,60751,157215799873600
+
+2020-04-07 18:32:40,123 INFO received ack: {"type": "push-ack", "lastRefTime":"157215799873600", "data":""} from: 192.168.47.1:60751, cost: 6 ms, unacked: 0, total push: 10
+
+2020-04-07 18:33:52,191 INFO DEFAULT_GROUP@@nacos-consumer-feign is changed, add it to push queue.
+
+2020-04-07 18:36:04,526 INFO DEFAULT_GROUP@@nacos-provider is changed, add it to push queue.
+
+2020-04-07 18:36:04,526 INFO serviceName: DEFAULT_GROUP@@nacos-provider changed, schedule push for: 192.168.47.1:61968, agent: Nacos-Java-Client:v1.1.4, key: 192.168.47.1,61968,157420208154100
+
+2020-04-07 18:36:04,526 INFO send udp packet: 192.168.47.1,61968,157420208154100
+
+2020-04-07 18:36:04,537 INFO received ack: {"type": "push-ack", "lastRefTime":"157420208154100", "data":""} from: 192.168.47.1:61968, cost: 11 ms, unacked: 0, total push: 11
+
+2020-04-07 18:51:00,310 INFO DEFAULT_GROUP@@nacos-provider is changed, add it to push queue.
+
+2020-04-07 18:51:00,310 INFO serviceName: DEFAULT_GROUP@@nacos-provider changed, schedule push for: 192.168.47.1:61968, agent: Nacos-Java-Client:v1.1.4, key: 192.168.47.1,61968,158315992329500
+
+2020-04-07 18:51:00,311 INFO send udp packet: 192.168.47.1,61968,158315992329500
+
+2020-04-07 18:51:00,313 INFO received ack: {"type": "push-ack", "lastRefTime":"158315992329500", "data":""} from: 192.168.47.1:61968, cost: 3 ms, unacked: 0, total push: 12
+
+2020-04-07 18:51:15,323 INFO DEFAULT_GROUP@@nacos-provider is changed, add it to push queue.
+
+2020-04-07 18:51:15,323 INFO serviceName: DEFAULT_GROUP@@nacos-provider changed, schedule push for: 192.168.47.1:61968, agent: Nacos-Java-Client:v1.1.4, key: 192.168.47.1,61968,158331005545200
+
+2020-04-07 18:51:15,323 INFO send udp packet: 192.168.47.1,61968,158331005545200
+
+2020-04-07 18:51:15,329 INFO received ack: {"type": "push-ack", "lastRefTime":"158331005545200", "data":""} from: 192.168.47.1:61968, cost: 6 ms, unacked: 0, total push: 13
 

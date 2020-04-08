@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 @SpringBootApplication
 @EnableDiscoveryClient
-public class SpringCloudAlibabaProviderApplication {
+public class  SpringCloudAlibabaProviderApplication {
 
     @Value("${server.port}")
     private String port;
@@ -21,9 +21,9 @@ public class SpringCloudAlibabaProviderApplication {
 
     @RestController
     public class EchoController {
-        @GetMapping(value = "/hi/{message}")
-        public String echo(@PathVariable String message) {
-            return "你好, "+ "这里是: "  + port + "\n你发送的信息是: " + message;
+        @GetMapping(value = "/hi/{msg}")
+        public String hi(@PathVariable("msg") String msg) {
+            return "你好, "+ "这里是: "  + port + "\n你发送的信息是: " + msg;
         }
     }
 }
