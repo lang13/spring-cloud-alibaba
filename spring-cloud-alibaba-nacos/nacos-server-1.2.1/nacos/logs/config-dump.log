@@ -1,14 +1,6 @@
-2020-04-07 13:18:10,095 INFO [dump-all-ok] nacos-provider.yml+DEFAULT_GROUP, 1585877580316, length=212, md5=864c3bd9b2255cb41f171c9b79038fd6
+2020-05-11 13:42:10,390 INFO [dump-all-ok] nacos-provider.yml+DEFAULT_GROUP, 1586255734501, length=326, md5=357142e9ed72ce7dc53caf4f3253bf59
 
-2020-04-07 13:18:10,097 INFO [dump-all-ok] nacos-provider-prod.yml+DEFAULT_GROUP, 1585877599683, length=210, md5=92e1a1ac148a39f639d33d7a308b4e0f
+2020-05-11 13:42:10,391 INFO [dump-all-ok] nacos-provider-prod.yml+DEFAULT_GROUP, 1586255746769, length=326, md5=15c5ef40ea4284564c707a62ba3d1c9b
 
-2020-04-07 13:18:10,097 INFO [dump-all-ok] nacos-consumer.yml+DEFAULT_GROUP, 1585879170142, length=239, md5=13119afd1f91b5c8468f0a7c79358ad3
-
-2020-04-07 15:05:45,306 INFO [dump-all-ok] nacos-provider.yml+DEFAULT_GROUP, 1585877580316, length=212, md5=864c3bd9b2255cb41f171c9b79038fd6
-
-2020-04-07 15:05:45,306 INFO [dump-all-ok] nacos-provider-prod.yml+DEFAULT_GROUP, 1585877599683, length=210, md5=92e1a1ac148a39f639d33d7a308b4e0f
-
-2020-04-07 15:05:45,307 INFO [dump-all-ok] nacos-consumer.yml+DEFAULT_GROUP, 1586242077328, length=239, md5=13119afd1f91b5c8468f0a7c79358ad3
-
-2020-04-07 18:35:46,852 WARN [dump-ignore] ignore to save cache file. groupKey=nacos-provider-prod.yml+DEFAULT_GROUP, md5=15c5ef40ea4284564c707a62ba3d1c9b, lastModifiedOld=1586248870414, lastModifiedNew=1586255746769
+2020-05-11 13:42:10,391 INFO [dump-all-ok] nacos-consumer.yml+DEFAULT_GROUP, 1586242077328, length=239, md5=13119afd1f91b5c8468f0a7c79358ad3
 
