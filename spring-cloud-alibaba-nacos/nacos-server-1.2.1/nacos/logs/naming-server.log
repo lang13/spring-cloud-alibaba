@@ -5089,3 +5089,2147 @@ java.lang.IllegalArgumentException: server: 192.168.47.1:8848 is not in serverli
 2020-05-11 16:55:13,945 INFO receive config info: unknown#192.168.47.1:8848#1589187313945#4
 
 
+2020-05-11 16:55:15,946 INFO receive config info: unknown#192.168.47.1:8848#1589187315946#4
+
+
+2020-05-11 16:55:17,947 INFO receive config info: unknown#192.168.47.1:8848#1589187317947#4
+
+
+2020-05-11 16:55:19,950 INFO receive config info: unknown#192.168.47.1:8848#1589187319950#4
+
+
+2020-05-11 16:55:21,952 INFO receive config info: unknown#192.168.47.1:8848#1589187321952#4
+
+
+2020-05-11 16:55:23,954 INFO receive config info: unknown#192.168.47.1:8848#1589187323954#4
+
+
+2020-05-11 16:55:25,960 INFO receive config info: unknown#192.168.47.1:8848#1589187325960#4
+
+
+2020-05-11 16:55:27,962 INFO receive config info: unknown#192.168.47.1:8848#1589187327962#4
+
+
+2020-05-11 16:55:29,963 INFO receive config info: unknown#192.168.47.1:8848#1589187329963#4
+
+
+2020-05-11 16:55:31,964 INFO receive config info: unknown#192.168.47.1:8848#1589187331964#4
+
+
+2020-05-11 16:55:33,965 INFO receive config info: unknown#192.168.47.1:8848#1589187333965#4
+
+
+2020-05-11 16:55:35,967 INFO receive config info: unknown#192.168.47.1:8848#1589187335967#4
+
+
+2020-05-11 16:55:37,968 INFO receive config info: unknown#192.168.47.1:8848#1589187337968#4
+
+
+2020-05-11 16:55:39,970 INFO receive config info: unknown#192.168.47.1:8848#1589187339970#4
+
+
+2020-05-11 16:55:41,970 INFO receive config info: unknown#192.168.47.1:8848#1589187341970#4
+
+
+2020-05-11 16:55:43,971 INFO [NACOS-DISTRO] distro threshold restored and stable now, enable health check. current ratio: 1.0
+
+2020-05-11 16:55:43,971 INFO receive config info: unknown#192.168.47.1:8848#1589187343971#4
+
+
+2020-05-11 16:55:45,974 INFO receive config info: unknown#192.168.47.1:8848#1589187345974#4
+
+
+2020-05-11 16:55:47,979 INFO receive config info: unknown#192.168.47.1:8848#1589187347979#4
+
+
+2020-05-11 16:55:49,987 INFO receive config info: unknown#192.168.47.1:8848#1589187349987#4
+
+
+2020-05-11 16:55:51,998 INFO receive config info: unknown#192.168.47.1:8848#1589187351998#4
+
+
+2020-05-11 16:55:54,006 INFO receive config info: unknown#192.168.47.1:8848#1589187354006#4
+
+
+2020-05-11 16:55:56,018 INFO receive config info: unknown#192.168.47.1:8848#1589187356018#4
+
+
+2020-05-11 16:55:58,019 INFO receive config info: unknown#192.168.47.1:8848#1589187358019#4
+
+
+2020-05-11 16:56:00,021 INFO receive config info: unknown#192.168.47.1:8848#1589187360021#4
+
+
+2020-05-11 16:56:02,027 INFO receive config info: unknown#192.168.47.1:8848#1589187362027#4
+
+
+2020-05-11 16:56:04,029 INFO receive config info: unknown#192.168.47.1:8848#1589187364029#4
+
+
+2020-05-11 16:56:06,036 INFO receive config info: unknown#192.168.47.1:8848#1589187366036#4
+
+
+2020-05-11 16:56:08,039 INFO receive config info: unknown#192.168.47.1:8848#1589187368039#4
+
+
+2020-05-11 16:56:10,042 INFO receive config info: unknown#192.168.47.1:8848#1589187370042#4
+
+
+2020-05-11 16:56:12,044 INFO receive config info: unknown#192.168.47.1:8848#1589187372044#4
+
+
+2020-05-11 16:56:14,052 INFO receive config info: unknown#192.168.47.1:8848#1589187374052#4
+
+
+2020-05-11 16:56:16,058 INFO receive config info: unknown#192.168.47.1:8848#1589187376058#4
+
+
+2020-05-11 16:56:18,063 INFO receive config info: unknown#192.168.47.1:8848#1589187378063#4
+
+
+2020-05-11 16:56:20,065 INFO receive config info: unknown#192.168.47.1:8848#1589187380065#4
+
+
+2020-05-11 16:56:22,069 INFO receive config info: unknown#192.168.47.1:8848#1589187382069#4
+
+
+2020-05-11 16:56:24,072 INFO receive config info: unknown#192.168.47.1:8848#1589187384072#4
+
+
+2020-05-11 16:56:24,970 INFO creating empty service public:DEFAULT_GROUP@@providers:com.learn.dubbo.api.HiService::
+
+2020-05-11 16:56:24,985 INFO [NEW-SERVICE] {"appName":"","checksum":"7471886318b5f77f6eb75169f29c80dd","clusterMap":{},"empty":true,"enabled":true,"finalizeCount":0,"groupName":"DEFAULT_GROUP","ipDeleteTimeout":30000,"lastModifiedMillis":1589187384970,"metadata":{},"name":"DEFAULT_GROUP@@providers:com.learn.dubbo.api.HiService::","namespaceId":"public","owners":[],"protectThreshold":0.0,"resetWeight":false,"selector":{"type":"none"},"token":""}
+
+2020-05-11 16:56:25,001 WARN cluster: DEFAULT not found, ip: {"app":"unknown","clusterName":"DEFAULT","enabled":true,"ephemeral":true,"healthy":true,"instanceHeartBeatInterval":5000,"instanceHeartBeatTimeOut":15000,"instanceId":"192.168.47.1#20880#DEFAULT#DEFAULT_GROUP@@providers:com.learn.dubbo.api.HiService::","instanceIdGenerator":"","ip":"192.168.47.1","ipDeleteTimeout":30000,"lastBeat":1589187384954,"marked":false,"metadata":{"side":"provider","methods":"Hi","release":"2.7.4.1","deprecated":"false","dubbo":"2.0.2","pid":"2400","interface":"com.learn.dubbo.api.HiService","generic":"false","serialization":"kryo","path":"com.learn.dubbo.api.HiService","protocol":"dubbo","application":"dubbo-provider","dynamic":"true","category":"providers","anyhost":"true","bean.name":"ServiceBean:com.learn.dubbo.api.HiService","timestamp":"1589187383776"},"port":20880,"serviceName":"DEFAULT_GROUP@@providers:com.learn.dubbo.api.HiService::","tenant":"","weight":1.0}, will create new cluster with default configuration.
+
+2020-05-11 16:56:25,001 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@providers:com.learn.dubbo.api.HiService::, value: {"instanceList":[{"app":"unknown","clusterName":"DEFAULT","enabled":true,"ephemeral":true,"healthy":true,"instanceHeartBeatInterval":5000,"instanceHeartBeatTimeOut":15000,"instanceId":"192.168.47.1#20880#DEFAULT#DEFAULT_GROUP@@providers:com.learn.dubbo.api.HiService::","instanceIdGenerator":"","ip":"192.168.47.1","ipDeleteTimeout":30000,"lastBeat":1589187384954,"marked":false,"metadata":{"side":"provider","methods":"Hi","release":"2.7.4.1","deprecated":"false","dubbo":"2.0.2","pid":"2400","interface":"com.learn.dubbo.api.HiService","generic":"false","serialization":"kryo","path":"com.learn.dubbo.api.HiService","protocol":"dubbo","application":"dubbo-provider","dynamic":"true","category":"providers","anyhost":"true","bean.name":"ServiceBean:com.learn.dubbo.api.HiService","timestamp":"1589187383776"},"port":20880,"serviceName":"DEFAULT_GROUP@@providers:com.learn.dubbo.api.HiService::","tenant":"","weight":1.0}]}
+
+2020-05-11 16:56:25,126 INFO creating empty service public:DEFAULT_GROUP@@providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:dubbo-provider
+
+2020-05-11 16:56:25,126 INFO [NEW-SERVICE] {"appName":"","checksum":"a6304c56875f12b93d61f8a07e59ccb8","clusterMap":{},"empty":true,"enabled":true,"finalizeCount":0,"groupName":"DEFAULT_GROUP","ipDeleteTimeout":30000,"lastModifiedMillis":1589187385126,"metadata":{},"name":"DEFAULT_GROUP@@providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:dubbo-provider","namespaceId":"public","owners":[],"protectThreshold":0.0,"resetWeight":false,"selector":{"type":"none"},"token":""}
+
+2020-05-11 16:56:25,126 WARN cluster: DEFAULT not found, ip: {"app":"unknown","clusterName":"DEFAULT","enabled":true,"ephemeral":true,"healthy":true,"instanceHeartBeatInterval":5000,"instanceHeartBeatTimeOut":15000,"instanceId":"192.168.47.1#20880#DEFAULT#DEFAULT_GROUP@@providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:dubbo-provider","instanceIdGenerator":"","ip":"192.168.47.1","ipDeleteTimeout":30000,"lastBeat":1589187385126,"marked":false,"metadata":{"side":"provider","methods":"getAllServiceKeys,getServiceRestMetadata,getExportedURLs,getAllExportedURLs","release":"2.7.4.1","deprecated":"false","dubbo":"2.0.2","pid":"2400","interface":"com.alibaba.cloud.dubbo.service.DubboMetadataService","version":"1.0.0","generic":"false","revision":"2.2.0.RELEASE","serialization":"kryo","path":"com.alibaba.cloud.dubbo.service.DubboMetadataService","protocol":"dubbo","application":"dubbo-provider","dynamic":"true","category":"providers","anyhost":"true","group":"dubbo-provider","timestamp":"1589187385110"},"port":20880,"serviceName":"DEFAULT_GROUP@@providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:dubbo-provider","tenant":"","weight":1.0}, will create new cluster with default configuration.
+
+2020-05-11 16:56:25,126 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:dubbo-provider, value: {"instanceList":[{"app":"unknown","clusterName":"DEFAULT","enabled":true,"ephemeral":true,"healthy":true,"instanceHeartBeatInterval":5000,"instanceHeartBeatTimeOut":15000,"instanceId":"192.168.47.1#20880#DEFAULT#DEFAULT_GROUP@@providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:dubbo-provider","instanceIdGenerator":"","ip":"192.168.47.1","ipDeleteTimeout":30000,"lastBeat":1589187385126,"marked":false,"metadata":{"side":"provider","methods":"getAllServiceKeys,getServiceRestMetadata,getExportedURLs,getAllExportedURLs","release":"2.7.4.1","deprecated":"false","dubbo":"2.0.2","pid":"2400","interface":"com.alibaba.cloud.dubbo.service.DubboMetadataService","version":"1.0.0","generic":"false","revision":"2.2.0.RELEASE","serialization":"kryo","path":"com.alibaba.cloud.dubbo.service.DubboMetadataService","protocol":"dubbo","application":"dubbo-provider","dynamic":"true","category":"providers","anyhost":"true","group":"dubbo-provider","timestamp":"1589187385110"},"port":20880,"serviceName":"DEFAULT_GROUP@@providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:dubbo-provider","tenant":"","weight":1.0}]}
+
+2020-05-11 16:56:25,173 INFO creating empty service public:DEFAULT_GROUP@@dubbo-provider
+
+2020-05-11 16:56:25,173 INFO [NEW-SERVICE] {"appName":"","checksum":"86e7250a39f9ea3d6ddcb1550a37b019","clusterMap":{},"empty":true,"enabled":true,"finalizeCount":0,"groupName":"DEFAULT_GROUP","ipDeleteTimeout":30000,"lastModifiedMillis":1589187385173,"metadata":{},"name":"DEFAULT_GROUP@@dubbo-provider","namespaceId":"public","owners":[],"protectThreshold":0.0,"resetWeight":false,"selector":{"type":"none"},"token":""}
+
+2020-05-11 16:56:25,173 WARN cluster: DEFAULT not found, ip: {"app":"unknown","clusterName":"DEFAULT","enabled":true,"ephemeral":true,"healthy":true,"instanceHeartBeatInterval":5000,"instanceHeartBeatTimeOut":15000,"instanceId":"192.168.47.1#20880#DEFAULT#DEFAULT_GROUP@@dubbo-provider","instanceIdGenerator":"","ip":"192.168.47.1","ipDeleteTimeout":30000,"lastBeat":1589187385173,"marked":false,"metadata":{"dubbo.metadata-service.urls":"[ \"dubbo://192.168.47.1:20880/com.alibaba.cloud.dubbo.service.DubboMetadataService?anyhost=true&application=dubbo-provider&bind.ip=192.168.47.1&bind.port=20880&deprecated=false&dubbo=2.0.2&dynamic=true&generic=false&group=dubbo-provider&interface=com.alibaba.cloud.dubbo.service.DubboMetadataService&methods=getAllServiceKeys,getServiceRestMetadata,getExportedURLs,getAllExportedURLs&pid=2400&qos.enable=false&release=2.7.4.1&revision=2.2.0.RELEASE&serialization=kryo&side=provider&timestamp=1589187385110&version=1.0.0\" ]","dubbo.protocols.dubbo.port":"20880","preserved.register.source":"SPRING_CLOUD"},"port":20880,"serviceName":"DEFAULT_GROUP@@dubbo-provider","tenant":"","weight":1.0}, will create new cluster with default configuration.
+
+2020-05-11 16:56:25,173 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@dubbo-provider, value: {"instanceList":[{"app":"unknown","clusterName":"DEFAULT","enabled":true,"ephemeral":true,"healthy":true,"instanceHeartBeatInterval":5000,"instanceHeartBeatTimeOut":15000,"instanceId":"192.168.47.1#20880#DEFAULT#DEFAULT_GROUP@@dubbo-provider","instanceIdGenerator":"","ip":"192.168.47.1","ipDeleteTimeout":30000,"lastBeat":1589187385173,"marked":false,"metadata":{"dubbo.metadata-service.urls":"[ \"dubbo://192.168.47.1:20880/com.alibaba.cloud.dubbo.service.DubboMetadataService?anyhost=true&application=dubbo-provider&bind.ip=192.168.47.1&bind.port=20880&deprecated=false&dubbo=2.0.2&dynamic=true&generic=false&group=dubbo-provider&interface=com.alibaba.cloud.dubbo.service.DubboMetadataService&methods=getAllServiceKeys,getServiceRestMetadata,getExportedURLs,getAllExportedURLs&pid=2400&qos.enable=false&release=2.7.4.1&revision=2.2.0.RELEASE&serialization=kryo&side=provider&timestamp=1589187385110&version=1.0.0\" ]","dubbo.protocols.dubbo.port":"20880","preserved.register.source":"SPRING_CLOUD"},"port":20880,"serviceName":"DEFAULT_GROUP@@dubbo-provider","tenant":"","weight":1.0}]}
+
+2020-05-11 16:56:26,083 INFO receive config info: unknown#192.168.47.1:8848#1589187386083#4
+
+
+2020-05-11 16:56:28,098 INFO receive config info: unknown#192.168.47.1:8848#1589187388098#4
+
+
+2020-05-11 16:56:30,099 INFO receive config info: unknown#192.168.47.1:8848#1589187390099#4
+
+
+2020-05-11 16:56:32,112 INFO receive config info: unknown#192.168.47.1:8848#1589187392112#4
+
+
+2020-05-11 16:56:34,116 INFO receive config info: unknown#192.168.47.1:8848#1589187394116#4
+
+
+2020-05-11 16:56:36,131 INFO receive config info: unknown#192.168.47.1:8848#1589187396131#4
+
+
+2020-05-11 16:56:38,138 INFO receive config info: unknown#192.168.47.1:8848#1589187398138#4
+
+
+2020-05-11 16:56:40,139 INFO receive config info: unknown#192.168.47.1:8848#1589187400139#4
+
+
+2020-05-11 16:56:42,150 INFO receive config info: unknown#192.168.47.1:8848#1589187402150#4
+
+
+2020-05-11 16:56:43,181 INFO creating empty service public:DEFAULT_GROUP@@consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:dubbo-provider
+
+2020-05-11 16:56:43,181 INFO [NEW-SERVICE] {"appName":"","checksum":"7772f776254f9e633b5ccf18c7577002","clusterMap":{},"empty":true,"enabled":true,"finalizeCount":0,"groupName":"DEFAULT_GROUP","ipDeleteTimeout":30000,"lastModifiedMillis":1589187403181,"metadata":{},"name":"DEFAULT_GROUP@@consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:dubbo-provider","namespaceId":"public","owners":[],"protectThreshold":0.0,"resetWeight":false,"selector":{"type":"none"},"token":""}
+
+2020-05-11 16:56:43,181 WARN cluster: DEFAULT not found, ip: {"app":"unknown","clusterName":"DEFAULT","enabled":true,"ephemeral":true,"healthy":true,"instanceHeartBeatInterval":5000,"instanceHeartBeatTimeOut":15000,"instanceId":"192.168.47.1#0#DEFAULT#DEFAULT_GROUP@@consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:dubbo-provider","instanceIdGenerator":"","ip":"192.168.47.1","ipDeleteTimeout":30000,"lastBeat":1589187403181,"marked":false,"metadata":{"side":"consumer","lazy":"false","release":"2.7.4.1","dubbo":"2.0.2","pid":"1240","check":"false","interface":"com.alibaba.cloud.dubbo.service.DubboMetadataService","version":"1.0.0","generic":"true","qos.enable":"false","path":"org.apache.dubbo.rpc.service.GenericService","protocol":"consumer","application":"dubbo-consumer","sticky":"false","category":"consumers","group":"dubbo-provider","timestamp":"1589187402416"},"port":0,"serviceName":"DEFAULT_GROUP@@consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:dubbo-provider","tenant":"","weight":1.0}, will create new cluster with default configuration.
+
+2020-05-11 16:56:43,181 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:dubbo-provider, value: {"instanceList":[{"app":"unknown","clusterName":"DEFAULT","enabled":true,"ephemeral":true,"healthy":true,"instanceHeartBeatInterval":5000,"instanceHeartBeatTimeOut":15000,"instanceId":"192.168.47.1#0#DEFAULT#DEFAULT_GROUP@@consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:dubbo-provider","instanceIdGenerator":"","ip":"192.168.47.1","ipDeleteTimeout":30000,"lastBeat":1589187403181,"marked":false,"metadata":{"side":"consumer","lazy":"false","release":"2.7.4.1","dubbo":"2.0.2","pid":"1240","check":"false","interface":"com.alibaba.cloud.dubbo.service.DubboMetadataService","version":"1.0.0","generic":"true","qos.enable":"false","path":"org.apache.dubbo.rpc.service.GenericService","protocol":"consumer","application":"dubbo-consumer","sticky":"false","category":"consumers","group":"dubbo-provider","timestamp":"1589187402416"},"port":0,"serviceName":"DEFAULT_GROUP@@consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:dubbo-provider","tenant":"","weight":1.0}]}
+
+2020-05-11 16:56:43,447 INFO creating empty service public:DEFAULT_GROUP@@consumers:com.learn.dubbo.api.HiService::
+
+2020-05-11 16:56:43,447 INFO [NEW-SERVICE] {"appName":"","checksum":"855cd68f86de646a4da8b6dbe68908fd","clusterMap":{},"empty":true,"enabled":true,"finalizeCount":0,"groupName":"DEFAULT_GROUP","ipDeleteTimeout":30000,"lastModifiedMillis":1589187403447,"metadata":{},"name":"DEFAULT_GROUP@@consumers:com.learn.dubbo.api.HiService::","namespaceId":"public","owners":[],"protectThreshold":0.0,"resetWeight":false,"selector":{"type":"none"},"token":""}
+
+2020-05-11 16:56:43,447 WARN cluster: DEFAULT not found, ip: {"app":"unknown","clusterName":"DEFAULT","enabled":true,"ephemeral":true,"healthy":true,"instanceHeartBeatInterval":5000,"instanceHeartBeatTimeOut":15000,"instanceId":"192.168.47.1#0#DEFAULT#DEFAULT_GROUP@@consumers:com.learn.dubbo.api.HiService::","instanceIdGenerator":"","ip":"192.168.47.1","ipDeleteTimeout":30000,"lastBeat":1589187403447,"marked":false,"metadata":{"side":"consumer","lazy":"false","methods":"Hi","release":"2.7.4.1","dubbo":"2.0.2","pid":"1240","check":"false","interface":"com.learn.dubbo.api.HiService","qos.enable":"false","path":"com.learn.dubbo.api.HiService","protocol":"consumer","application":"dubbo-consumer","sticky":"false","category":"consumers","timestamp":"1589187402244"},"port":0,"serviceName":"DEFAULT_GROUP@@consumers:com.learn.dubbo.api.HiService::","tenant":"","weight":1.0}, will create new cluster with default configuration.
+
+2020-05-11 16:56:43,447 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@consumers:com.learn.dubbo.api.HiService::, value: {"instanceList":[{"app":"unknown","clusterName":"DEFAULT","enabled":true,"ephemeral":true,"healthy":true,"instanceHeartBeatInterval":5000,"instanceHeartBeatTimeOut":15000,"instanceId":"192.168.47.1#0#DEFAULT#DEFAULT_GROUP@@consumers:com.learn.dubbo.api.HiService::","instanceIdGenerator":"","ip":"192.168.47.1","ipDeleteTimeout":30000,"lastBeat":1589187403447,"marked":false,"metadata":{"side":"consumer","lazy":"false","methods":"Hi","release":"2.7.4.1","dubbo":"2.0.2","pid":"1240","check":"false","interface":"com.learn.dubbo.api.HiService","qos.enable":"false","path":"com.learn.dubbo.api.HiService","protocol":"consumer","application":"dubbo-consumer","sticky":"false","category":"consumers","timestamp":"1589187402244"},"port":0,"serviceName":"DEFAULT_GROUP@@consumers:com.learn.dubbo.api.HiService::","tenant":"","weight":1.0}]}
+
+2020-05-11 16:56:44,151 INFO receive config info: unknown#192.168.47.1:8848#1589187404151#4
+
+
+2020-05-11 16:56:45,498 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:dubbo-provider, value: {"instanceList":[]}
+
+2020-05-11 16:56:45,502 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@consumers:com.learn.dubbo.api.HiService::, value: {"instanceList":[]}
+
+2020-05-11 16:56:46,156 INFO receive config info: unknown#192.168.47.1:8848#1589187406153#4
+
+
+2020-05-11 16:56:48,157 INFO receive config info: unknown#192.168.47.1:8848#1589187408157#4
+
+
+2020-05-11 16:56:50,158 INFO receive config info: unknown#192.168.47.1:8848#1589187410158#4
+
+
+2020-05-11 16:56:52,159 INFO receive config info: unknown#192.168.47.1:8848#1589187412159#4
+
+
+2020-05-11 16:56:54,160 INFO receive config info: unknown#192.168.47.1:8848#1589187414160#4
+
+
+2020-05-11 16:56:56,163 INFO receive config info: unknown#192.168.47.1:8848#1589187416163#4
+
+
+2020-05-11 16:56:58,168 INFO receive config info: unknown#192.168.47.1:8848#1589187418168#4
+
+
+2020-05-11 16:57:00,174 INFO receive config info: unknown#192.168.47.1:8848#1589187420174#4
+
+
+2020-05-11 16:57:02,175 INFO receive config info: unknown#192.168.47.1:8848#1589187422175#4
+
+
+2020-05-11 16:57:04,175 INFO receive config info: unknown#192.168.47.1:8848#1589187424175#4
+
+
+2020-05-11 16:57:06,177 INFO receive config info: unknown#192.168.47.1:8848#1589187426177#4
+
+
+2020-05-11 16:57:08,177 INFO receive config info: unknown#192.168.47.1:8848#1589187428177#4
+
+
+2020-05-11 16:57:10,179 INFO receive config info: unknown#192.168.47.1:8848#1589187430179#4
+
+
+2020-05-11 16:57:10,257 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:dubbo-provider, value: {"instanceList":[{"app":"unknown","clusterName":"DEFAULT","enabled":true,"ephemeral":true,"healthy":true,"instanceHeartBeatInterval":5000,"instanceHeartBeatTimeOut":15000,"instanceId":"192.168.47.1#0#DEFAULT#DEFAULT_GROUP@@consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:dubbo-provider","instanceIdGenerator":"","ip":"192.168.47.1","ipDeleteTimeout":30000,"lastBeat":1589187430257,"marked":false,"metadata":{"side":"consumer","lazy":"false","release":"2.7.4.1","dubbo":"2.0.2","pid":"4080","check":"false","interface":"com.alibaba.cloud.dubbo.service.DubboMetadataService","version":"1.0.0","generic":"true","qos.enable":"false","path":"org.apache.dubbo.rpc.service.GenericService","protocol":"consumer","application":"dubbo-consumer","sticky":"false","category":"consumers","group":"dubbo-provider","timestamp":"1589187429538"},"port":0,"serviceName":"DEFAULT_GROUP@@consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:dubbo-provider","tenant":"","weight":1.0}]}
+
+2020-05-11 16:57:10,398 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@consumers:com.learn.dubbo.api.HiService::, value: {"instanceList":[{"app":"unknown","clusterName":"DEFAULT","enabled":true,"ephemeral":true,"healthy":true,"instanceHeartBeatInterval":5000,"instanceHeartBeatTimeOut":15000,"instanceId":"192.168.47.1#0#DEFAULT#DEFAULT_GROUP@@consumers:com.learn.dubbo.api.HiService::","instanceIdGenerator":"","ip":"192.168.47.1","ipDeleteTimeout":30000,"lastBeat":1589187430398,"marked":false,"metadata":{"side":"consumer","lazy":"false","methods":"Hi","release":"2.7.4.1","dubbo":"2.0.2","pid":"4080","check":"false","interface":"com.learn.dubbo.api.HiService","qos.enable":"false","path":"com.learn.dubbo.api.HiService","protocol":"consumer","application":"dubbo-consumer","sticky":"false","category":"consumers","timestamp":"1589187429381"},"port":0,"serviceName":"DEFAULT_GROUP@@consumers:com.learn.dubbo.api.HiService::","tenant":"","weight":1.0}]}
+
+2020-05-11 16:57:12,180 INFO receive config info: unknown#192.168.47.1:8848#1589187432180#4
+
+
+2020-05-11 16:57:12,289 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@consumers:com.learn.dubbo.api.HiService::, value: {"instanceList":[]}
+
+2020-05-11 16:57:12,292 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:dubbo-provider, value: {"instanceList":[]}
+
+2020-05-11 16:57:14,182 INFO receive config info: unknown#192.168.47.1:8848#1589187434182#4
+
+
+2020-05-11 16:57:16,183 INFO receive config info: unknown#192.168.47.1:8848#1589187436183#4
+
+
+2020-05-11 16:57:18,185 INFO receive config info: unknown#192.168.47.1:8848#1589187438185#4
+
+
+2020-05-11 16:57:20,187 INFO receive config info: unknown#192.168.47.1:8848#1589187440187#4
+
+
+2020-05-11 16:57:22,188 INFO receive config info: unknown#192.168.47.1:8848#1589187442188#4
+
+
+2020-05-11 16:57:24,198 INFO receive config info: unknown#192.168.47.1:8848#1589187444198#4
+
+
+2020-05-11 16:57:26,200 INFO receive config info: unknown#192.168.47.1:8848#1589187446200#4
+
+
+2020-05-11 16:57:28,204 INFO receive config info: unknown#192.168.47.1:8848#1589187448204#4
+
+
+2020-05-11 16:57:30,212 INFO receive config info: unknown#192.168.47.1:8848#1589187450212#4
+
+
+2020-05-11 16:57:32,213 INFO receive config info: unknown#192.168.47.1:8848#1589187452213#4
+
+
+2020-05-11 16:57:34,215 INFO receive config info: unknown#192.168.47.1:8848#1589187454215#4
+
+
+2020-05-11 16:57:36,216 INFO receive config info: unknown#192.168.47.1:8848#1589187456216#4
+
+
+2020-05-11 16:57:38,224 INFO receive config info: unknown#192.168.47.1:8848#1589187458224#4
+
+
+2020-05-11 16:57:40,244 INFO receive config info: unknown#192.168.47.1:8848#1589187460244#4
+
+
+2020-05-11 16:57:42,245 INFO receive config info: unknown#192.168.47.1:8848#1589187462245#4
+
+
+2020-05-11 16:57:44,259 INFO receive config info: unknown#192.168.47.1:8848#1589187464259#4
+
+
+2020-05-11 16:57:46,260 INFO receive config info: unknown#192.168.47.1:8848#1589187466260#4
+
+
+2020-05-11 16:57:48,261 INFO receive config info: unknown#192.168.47.1:8848#1589187468261#4
+
+
+2020-05-11 16:57:50,263 INFO receive config info: unknown#192.168.47.1:8848#1589187470263#4
+
+
+2020-05-11 16:57:52,273 INFO receive config info: unknown#192.168.47.1:8848#1589187472273#4
+
+
+2020-05-11 16:57:54,274 INFO receive config info: unknown#192.168.47.1:8848#1589187474274#4
+
+
+2020-05-11 16:57:56,287 INFO receive config info: unknown#192.168.47.1:8848#1589187476287#4
+
+
+2020-05-11 16:57:58,288 INFO receive config info: unknown#192.168.47.1:8848#1589187478288#4
+
+
+2020-05-11 16:58:00,289 INFO receive config info: unknown#192.168.47.1:8848#1589187480289#4
+
+
+2020-05-11 16:58:02,291 INFO receive config info: unknown#192.168.47.1:8848#1589187482291#4
+
+
+2020-05-11 16:58:04,293 INFO receive config info: unknown#192.168.47.1:8848#1589187484293#4
+
+
+2020-05-11 16:58:06,296 INFO receive config info: unknown#192.168.47.1:8848#1589187486296#4
+
+
+2020-05-11 16:58:08,299 INFO receive config info: unknown#192.168.47.1:8848#1589187488299#4
+
+
+2020-05-11 16:58:10,302 INFO receive config info: unknown#192.168.47.1:8848#1589187490302#4
+
+
+2020-05-11 16:58:12,304 INFO receive config info: unknown#192.168.47.1:8848#1589187492304#4
+
+
+2020-05-11 16:58:14,305 INFO receive config info: unknown#192.168.47.1:8848#1589187494305#4
+
+
+2020-05-11 16:58:16,306 INFO receive config info: unknown#192.168.47.1:8848#1589187496306#4
+
+
+2020-05-11 16:58:18,318 INFO receive config info: unknown#192.168.47.1:8848#1589187498318#4
+
+
+2020-05-11 16:58:20,319 INFO receive config info: unknown#192.168.47.1:8848#1589187500319#4
+
+
+2020-05-11 16:58:22,320 INFO receive config info: unknown#192.168.47.1:8848#1589187502320#4
+
+
+2020-05-11 16:58:24,323 INFO receive config info: unknown#192.168.47.1:8848#1589187504323#4
+
+
+2020-05-11 16:58:26,332 INFO receive config info: unknown#192.168.47.1:8848#1589187506332#4
+
+
+2020-05-11 16:58:28,334 INFO receive config info: unknown#192.168.47.1:8848#1589187508334#4
+
+
+2020-05-11 16:58:30,336 INFO receive config info: unknown#192.168.47.1:8848#1589187510336#4
+
+
+2020-05-11 16:58:32,337 INFO receive config info: unknown#192.168.47.1:8848#1589187512337#4
+
+
+2020-05-11 16:58:34,351 INFO receive config info: unknown#192.168.47.1:8848#1589187514351#4
+
+
+2020-05-11 16:58:36,354 INFO receive config info: unknown#192.168.47.1:8848#1589187516354#4
+
+
+2020-05-11 16:58:38,355 INFO receive config info: unknown#192.168.47.1:8848#1589187518355#4
+
+
+2020-05-11 16:58:38,949 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:dubbo-provider, value: {"instanceList":[{"app":"unknown","clusterName":"DEFAULT","enabled":true,"ephemeral":true,"healthy":true,"instanceHeartBeatInterval":5000,"instanceHeartBeatTimeOut":15000,"instanceId":"192.168.47.1#0#DEFAULT#DEFAULT_GROUP@@consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:dubbo-provider","instanceIdGenerator":"","ip":"192.168.47.1","ipDeleteTimeout":30000,"lastBeat":1589187518949,"marked":false,"metadata":{"side":"consumer","lazy":"false","release":"2.7.4.1","dubbo":"2.0.2","pid":"11844","check":"false","interface":"com.alibaba.cloud.dubbo.service.DubboMetadataService","version":"1.0.0","generic":"true","qos.enable":"false","path":"org.apache.dubbo.rpc.service.GenericService","protocol":"consumer","application":"dubbo-consumer","sticky":"false","category":"consumers","group":"dubbo-provider","timestamp":"1589187518274"},"port":0,"serviceName":"DEFAULT_GROUP@@consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:dubbo-provider","tenant":"","weight":1.0}]}
+
+2020-05-11 16:58:39,105 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@consumers:com.learn.dubbo.api.HiService::, value: {"instanceList":[{"app":"unknown","clusterName":"DEFAULT","enabled":true,"ephemeral":true,"healthy":true,"instanceHeartBeatInterval":5000,"instanceHeartBeatTimeOut":15000,"instanceId":"192.168.47.1#0#DEFAULT#DEFAULT_GROUP@@consumers:com.learn.dubbo.api.HiService::","instanceIdGenerator":"","ip":"192.168.47.1","ipDeleteTimeout":30000,"lastBeat":1589187519105,"marked":false,"metadata":{"side":"consumer","lazy":"false","methods":"Hi","release":"2.7.4.1","dubbo":"2.0.2","pid":"11844","check":"false","interface":"com.learn.dubbo.api.HiService","qos.enable":"false","path":"com.learn.dubbo.api.HiService","protocol":"consumer","application":"dubbo-consumer","sticky":"false","category":"consumers","timestamp":"1589187518088"},"port":0,"serviceName":"DEFAULT_GROUP@@consumers:com.learn.dubbo.api.HiService::","tenant":"","weight":1.0}]}
+
+2020-05-11 16:58:40,363 INFO receive config info: unknown#192.168.47.1:8848#1589187520363#4
+
+
+2020-05-11 16:58:40,988 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@consumers:com.learn.dubbo.api.HiService::, value: {"instanceList":[]}
+
+2020-05-11 16:58:40,988 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:dubbo-provider, value: {"instanceList":[]}
+
+2020-05-11 16:58:42,370 INFO receive config info: unknown#192.168.47.1:8848#1589187522370#4
+
+
+2020-05-11 16:58:44,372 INFO receive config info: unknown#192.168.47.1:8848#1589187524372#4
+
+
+2020-05-11 16:58:46,373 INFO receive config info: unknown#192.168.47.1:8848#1589187526373#4
+
+
+2020-05-11 16:58:48,383 INFO receive config info: unknown#192.168.47.1:8848#1589187528383#4
+
+
+2020-05-11 16:58:50,385 INFO receive config info: unknown#192.168.47.1:8848#1589187530385#4
+
+
+2020-05-11 16:58:52,394 INFO receive config info: unknown#192.168.47.1:8848#1589187532394#4
+
+
+2020-05-11 16:58:54,395 INFO receive config info: unknown#192.168.47.1:8848#1589187534395#4
+
+
+2020-05-11 16:58:56,410 INFO receive config info: unknown#192.168.47.1:8848#1589187536410#4
+
+
+2020-05-11 16:58:58,423 INFO receive config info: unknown#192.168.47.1:8848#1589187538423#4
+
+
+2020-05-11 16:59:00,424 INFO receive config info: unknown#192.168.47.1:8848#1589187540424#4
+
+
+2020-05-11 16:59:02,431 INFO receive config info: unknown#192.168.47.1:8848#1589187542431#4
+
+
+2020-05-11 16:59:04,451 INFO receive config info: unknown#192.168.47.1:8848#1589187544451#4
+
+
+2020-05-11 16:59:06,452 INFO receive config info: unknown#192.168.47.1:8848#1589187546452#4
+
+
+2020-05-11 16:59:08,453 INFO receive config info: unknown#192.168.47.1:8848#1589187548453#4
+
+
+2020-05-11 16:59:10,464 INFO receive config info: unknown#192.168.47.1:8848#1589187550464#4
+
+
+2020-05-11 16:59:12,480 INFO receive config info: unknown#192.168.47.1:8848#1589187552480#4
+
+
+2020-05-11 16:59:14,480 INFO receive config info: unknown#192.168.47.1:8848#1589187554480#4
+
+
+2020-05-11 16:59:16,489 INFO receive config info: unknown#192.168.47.1:8848#1589187556489#4
+
+
+2020-05-11 16:59:18,495 INFO receive config info: unknown#192.168.47.1:8848#1589187558495#4
+
+
+2020-05-11 16:59:20,504 INFO receive config info: unknown#192.168.47.1:8848#1589187560504#4
+
+
+2020-05-11 16:59:22,520 INFO receive config info: unknown#192.168.47.1:8848#1589187562520#4
+
+
+2020-05-11 16:59:24,535 INFO receive config info: unknown#192.168.47.1:8848#1589187564535#4
+
+
+2020-05-11 16:59:26,544 INFO receive config info: unknown#192.168.47.1:8848#1589187566544#4
+
+
+2020-05-11 16:59:28,555 INFO receive config info: unknown#192.168.47.1:8848#1589187568555#4
+
+
+2020-05-11 16:59:30,569 INFO receive config info: unknown#192.168.47.1:8848#1589187570569#4
+
+
+2020-05-11 16:59:32,585 INFO receive config info: unknown#192.168.47.1:8848#1589187572585#4
+
+
+2020-05-11 16:59:34,594 INFO receive config info: unknown#192.168.47.1:8848#1589187574594#4
+
+
+2020-05-11 16:59:36,614 INFO receive config info: unknown#192.168.47.1:8848#1589187576614#4
+
+
+2020-05-11 16:59:38,628 INFO receive config info: unknown#192.168.47.1:8848#1589187578628#4
+
+
+2020-05-11 16:59:40,642 INFO receive config info: unknown#192.168.47.1:8848#1589187580642#4
+
+
+2020-05-11 16:59:42,649 INFO receive config info: unknown#192.168.47.1:8848#1589187582649#4
+
+
+2020-05-11 16:59:44,664 INFO receive config info: unknown#192.168.47.1:8848#1589187584664#4
+
+
+2020-05-11 16:59:46,670 INFO receive config info: unknown#192.168.47.1:8848#1589187586670#4
+
+
+2020-05-11 16:59:48,677 INFO receive config info: unknown#192.168.47.1:8848#1589187588677#4
+
+
+2020-05-11 16:59:50,692 INFO receive config info: unknown#192.168.47.1:8848#1589187590692#4
+
+
+2020-05-11 16:59:52,694 INFO receive config info: unknown#192.168.47.1:8848#1589187592694#4
+
+
+2020-05-11 16:59:54,695 INFO receive config info: unknown#192.168.47.1:8848#1589187594695#4
+
+
+2020-05-11 16:59:56,696 INFO receive config info: unknown#192.168.47.1:8848#1589187596696#4
+
+
+2020-05-11 16:59:58,696 INFO receive config info: unknown#192.168.47.1:8848#1589187598696#4
+
+
+2020-05-11 17:00:00,697 INFO receive config info: unknown#192.168.47.1:8848#1589187600697#4
+
+
+2020-05-11 17:00:02,698 INFO receive config info: unknown#192.168.47.1:8848#1589187602698#4
+
+
+2020-05-11 17:00:04,701 INFO receive config info: unknown#192.168.47.1:8848#1589187604701#4
+
+
+2020-05-11 17:00:06,702 INFO receive config info: unknown#192.168.47.1:8848#1589187606702#4
+
+
+2020-05-11 17:00:08,703 INFO receive config info: unknown#192.168.47.1:8848#1589187608703#4
+
+
+2020-05-11 17:00:10,703 INFO receive config info: unknown#192.168.47.1:8848#1589187610703#4
+
+
+2020-05-11 17:00:12,704 INFO receive config info: unknown#192.168.47.1:8848#1589187612704#4
+
+
+2020-05-11 17:00:14,706 INFO receive config info: unknown#192.168.47.1:8848#1589187614706#4
+
+
+2020-05-11 17:00:16,707 INFO receive config info: unknown#192.168.47.1:8848#1589187616707#4
+
+
+2020-05-11 17:00:18,709 INFO receive config info: unknown#192.168.47.1:8848#1589187618709#4
+
+
+2020-05-11 17:00:20,710 INFO receive config info: unknown#192.168.47.1:8848#1589187620710#4
+
+
+2020-05-11 17:00:22,712 INFO receive config info: unknown#192.168.47.1:8848#1589187622712#4
+
+
+2020-05-11 17:00:24,714 INFO receive config info: unknown#192.168.47.1:8848#1589187624714#4
+
+
+2020-05-11 17:00:26,727 INFO receive config info: unknown#192.168.47.1:8848#1589187626727#4
+
+
+2020-05-11 17:00:28,731 INFO receive config info: unknown#192.168.47.1:8848#1589187628731#4
+
+
+2020-05-11 17:00:30,740 INFO receive config info: unknown#192.168.47.1:8848#1589187630740#4
+
+
+2020-05-11 17:00:32,755 INFO receive config info: unknown#192.168.47.1:8848#1589187632755#4
+
+
+2020-05-11 17:00:34,755 INFO receive config info: unknown#192.168.47.1:8848#1589187634755#4
+
+
+2020-05-11 17:00:36,756 INFO receive config info: unknown#192.168.47.1:8848#1589187636756#4
+
+
+2020-05-11 17:00:38,757 INFO receive config info: unknown#192.168.47.1:8848#1589187638757#4
+
+
+2020-05-11 17:00:40,768 INFO receive config info: unknown#192.168.47.1:8848#1589187640768#4
+
+
+2020-05-11 17:00:42,778 INFO receive config info: unknown#192.168.47.1:8848#1589187642778#4
+
+
+2020-05-11 17:00:44,790 INFO receive config info: unknown#192.168.47.1:8848#1589187644790#4
+
+
+2020-05-11 17:00:46,802 INFO receive config info: unknown#192.168.47.1:8848#1589187646802#4
+
+
+2020-05-11 17:00:48,813 INFO receive config info: unknown#192.168.47.1:8848#1589187648813#4
+
+
+2020-05-11 17:00:50,814 INFO receive config info: unknown#192.168.47.1:8848#1589187650814#4
+
+
+2020-05-11 17:00:52,820 INFO receive config info: unknown#192.168.47.1:8848#1589187652820#4
+
+
+2020-05-11 17:00:54,829 INFO receive config info: unknown#192.168.47.1:8848#1589187654829#4
+
+
+2020-05-11 17:00:56,832 INFO receive config info: unknown#192.168.47.1:8848#1589187656832#4
+
+
+2020-05-11 17:00:58,835 INFO receive config info: unknown#192.168.47.1:8848#1589187658835#4
+
+
+2020-05-11 17:00:59,493 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:dubbo-provider, value: {"instanceList":[{"app":"unknown","clusterName":"DEFAULT","enabled":true,"ephemeral":true,"healthy":true,"instanceHeartBeatInterval":5000,"instanceHeartBeatTimeOut":15000,"instanceId":"192.168.47.1#0#DEFAULT#DEFAULT_GROUP@@consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:dubbo-provider","instanceIdGenerator":"","ip":"192.168.47.1","ipDeleteTimeout":30000,"lastBeat":1589187659493,"marked":false,"metadata":{"side":"consumer","lazy":"false","release":"2.7.4.1","dubbo":"2.0.2","pid":"17332","check":"false","interface":"com.alibaba.cloud.dubbo.service.DubboMetadataService","version":"1.0.0","generic":"true","qos.enable":"false","path":"org.apache.dubbo.rpc.service.GenericService","protocol":"consumer","application":"dubbo-consumer","sticky":"false","category":"consumers","group":"dubbo-provider","timestamp":"1589187658835"},"port":0,"serviceName":"DEFAULT_GROUP@@consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:dubbo-provider","tenant":"","weight":1.0}]}
+
+2020-05-11 17:00:59,602 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@consumers:com.learn.dubbo.api.HiService::, value: {"instanceList":[{"app":"unknown","clusterName":"DEFAULT","enabled":true,"ephemeral":true,"healthy":true,"instanceHeartBeatInterval":5000,"instanceHeartBeatTimeOut":15000,"instanceId":"192.168.47.1#0#DEFAULT#DEFAULT_GROUP@@consumers:com.learn.dubbo.api.HiService::","instanceIdGenerator":"","ip":"192.168.47.1","ipDeleteTimeout":30000,"lastBeat":1589187659602,"marked":false,"metadata":{"side":"consumer","lazy":"false","methods":"Hi","release":"2.7.4.1","dubbo":"2.0.2","pid":"17332","check":"false","interface":"com.learn.dubbo.api.HiService","qos.enable":"false","path":"com.learn.dubbo.api.HiService","protocol":"consumer","application":"dubbo-consumer","sticky":"false","category":"consumers","timestamp":"1589187658695"},"port":0,"serviceName":"DEFAULT_GROUP@@consumers:com.learn.dubbo.api.HiService::","tenant":"","weight":1.0}]}
+
+2020-05-11 17:01:00,837 INFO receive config info: unknown#192.168.47.1:8848#1589187660837#4
+
+
+2020-05-11 17:01:01,448 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:dubbo-provider, value: {"instanceList":[]}
+
+2020-05-11 17:01:01,448 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@consumers:com.learn.dubbo.api.HiService::, value: {"instanceList":[]}
+
+2020-05-11 17:01:02,854 INFO receive config info: unknown#192.168.47.1:8848#1589187662854#4
+
+
+2020-05-11 17:01:04,856 INFO receive config info: unknown#192.168.47.1:8848#1589187664856#4
+
+
+2020-05-11 17:01:06,857 INFO receive config info: unknown#192.168.47.1:8848#1589187666857#4
+
+
+2020-05-11 17:01:08,866 INFO receive config info: unknown#192.168.47.1:8848#1589187668866#4
+
+
+2020-05-11 17:01:10,867 INFO receive config info: unknown#192.168.47.1:8848#1589187670867#4
+
+
+2020-05-11 17:01:12,868 INFO receive config info: unknown#192.168.47.1:8848#1589187672868#4
+
+
+2020-05-11 17:01:14,880 INFO receive config info: unknown#192.168.47.1:8848#1589187674880#4
+
+
+2020-05-11 17:01:16,882 INFO receive config info: unknown#192.168.47.1:8848#1589187676882#4
+
+
+2020-05-11 17:01:18,883 INFO receive config info: unknown#192.168.47.1:8848#1589187678883#4
+
+
+2020-05-11 17:01:20,884 INFO receive config info: unknown#192.168.47.1:8848#1589187680884#4
+
+
+2020-05-11 17:01:22,899 INFO receive config info: unknown#192.168.47.1:8848#1589187682899#4
+
+
+2020-05-11 17:01:24,900 INFO receive config info: unknown#192.168.47.1:8848#1589187684900#4
+
+
+2020-05-11 17:01:26,903 INFO receive config info: unknown#192.168.47.1:8848#1589187686903#4
+
+
+2020-05-11 17:01:28,910 INFO receive config info: unknown#192.168.47.1:8848#1589187688910#4
+
+
+2020-05-11 17:01:30,912 INFO receive config info: unknown#192.168.47.1:8848#1589187690912#4
+
+
+2020-05-11 17:01:32,913 INFO receive config info: unknown#192.168.47.1:8848#1589187692913#4
+
+
+2020-05-11 17:01:34,916 INFO receive config info: unknown#192.168.47.1:8848#1589187694916#4
+
+
+2020-05-11 17:01:36,928 INFO receive config info: unknown#192.168.47.1:8848#1589187696928#4
+
+
+2020-05-11 17:01:38,932 INFO receive config info: unknown#192.168.47.1:8848#1589187698932#4
+
+
+2020-05-11 17:01:40,937 INFO receive config info: unknown#192.168.47.1:8848#1589187700937#4
+
+
+2020-05-11 17:01:42,938 INFO receive config info: unknown#192.168.47.1:8848#1589187702938#4
+
+
+2020-05-11 17:01:44,949 INFO receive config info: unknown#192.168.47.1:8848#1589187704949#4
+
+
+2020-05-11 17:01:46,950 INFO receive config info: unknown#192.168.47.1:8848#1589187706950#4
+
+
+2020-05-11 17:01:48,952 INFO receive config info: unknown#192.168.47.1:8848#1589187708952#4
+
+
+2020-05-11 17:01:50,960 INFO receive config info: unknown#192.168.47.1:8848#1589187710960#4
+
+
+2020-05-11 17:01:52,964 INFO receive config info: unknown#192.168.47.1:8848#1589187712964#4
+
+
+2020-05-11 17:01:54,971 INFO receive config info: unknown#192.168.47.1:8848#1589187714971#4
+
+
+2020-05-11 17:01:56,974 INFO receive config info: unknown#192.168.47.1:8848#1589187716974#4
+
+
+2020-05-11 17:01:58,980 INFO receive config info: unknown#192.168.47.1:8848#1589187718980#4
+
+
+2020-05-11 17:02:00,986 INFO receive config info: unknown#192.168.47.1:8848#1589187720986#4
+
+
+2020-05-11 17:02:02,990 INFO receive config info: unknown#192.168.47.1:8848#1589187722990#4
+
+
+2020-05-11 17:02:04,998 INFO receive config info: unknown#192.168.47.1:8848#1589187724998#4
+
+
+2020-05-11 17:02:07,000 INFO receive config info: unknown#192.168.47.1:8848#1589187727000#4
+
+
+2020-05-11 17:02:09,003 INFO receive config info: unknown#192.168.47.1:8848#1589187729003#4
+
+
+2020-05-11 17:02:11,005 INFO receive config info: unknown#192.168.47.1:8848#1589187731005#4
+
+
+2020-05-11 17:02:13,007 INFO receive config info: unknown#192.168.47.1:8848#1589187733007#4
+
+
+2020-05-11 17:02:15,017 INFO receive config info: unknown#192.168.47.1:8848#1589187735017#4
+
+
+2020-05-11 17:02:17,022 INFO receive config info: unknown#192.168.47.1:8848#1589187737022#4
+
+
+2020-05-11 17:02:39,472 INFO listen for service meta change
+
+2020-05-11 17:02:41,526 INFO [SERVER-INIT] got port: 8848
+
+2020-05-11 17:02:41,526 INFO [SERVER-INIT] got path: /nacos
+
+2020-05-11 17:02:42,439 INFO receive config info: unknown#192.168.47.1:8848#1589187762439#4
+
+
+2020-05-11 17:02:42,441 ERROR [SERVER-STATUS] Exception while sending server status
+
+java.lang.IllegalArgumentException: server: 192.168.47.1:8848 is not in serverlist
+	at com.alibaba.nacos.naming.cluster.ServerListManager.onReceiveServerStatus(ServerListManager.java:198)
+	at com.alibaba.nacos.naming.cluster.ServerListManager$ServerStatusReporter.run(ServerListManager.java:345)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:748)
+2020-05-11 17:02:44,442 INFO receive config info: unknown#192.168.47.1:8848#1589187764442#4
+
+
+2020-05-11 17:02:46,443 INFO [NACOS-DISTRO] healthy server list changed, old: [], new: [{"adWeight":0,"alive":true,"ip":"192.168.47.1","key":"192.168.47.1:8848","lastRefTime":1589187764442,"lastRefTimeStr":"2020-05-11 17:02:44","servePort":8848,"site":"unknown","weight":4}]
+
+2020-05-11 17:02:46,443 INFO [NACOS-DISTRO] disable health check for 60000 ms from now on.
+
+2020-05-11 17:02:46,443 INFO receive config info: unknown#192.168.47.1:8848#1589187766443#4
+
+
+2020-05-11 17:02:48,451 INFO receive config info: unknown#192.168.47.1:8848#1589187768451#4
+
+
+2020-05-11 17:02:50,455 INFO receive config info: unknown#192.168.47.1:8848#1589187770455#4
+
+
+2020-05-11 17:02:52,469 INFO receive config info: unknown#192.168.47.1:8848#1589187772469#4
+
+
+2020-05-11 17:02:54,480 INFO receive config info: unknown#192.168.47.1:8848#1589187774480#4
+
+
+2020-05-11 17:02:56,485 INFO receive config info: unknown#192.168.47.1:8848#1589187776485#4
+
+
+2020-05-11 17:02:58,487 INFO receive config info: unknown#192.168.47.1:8848#1589187778487#4
+
+
+2020-05-11 17:03:00,492 INFO receive config info: unknown#192.168.47.1:8848#1589187780492#4
+
+
+2020-05-11 17:03:02,495 INFO receive config info: unknown#192.168.47.1:8848#1589187782495#4
+
+
+2020-05-11 17:03:02,916 INFO creating empty service public:DEFAULT_GROUP@@providers:com.learn.dubbo.api.HiService::
+
+2020-05-11 17:03:02,932 INFO [NEW-SERVICE] {"appName":"","checksum":"7471886318b5f77f6eb75169f29c80dd","clusterMap":{},"empty":true,"enabled":true,"finalizeCount":0,"groupName":"DEFAULT_GROUP","ipDeleteTimeout":30000,"lastModifiedMillis":1589187782916,"metadata":{},"name":"DEFAULT_GROUP@@providers:com.learn.dubbo.api.HiService::","namespaceId":"public","owners":[],"protectThreshold":0.0,"resetWeight":false,"selector":{"type":"none"},"token":""}
+
+2020-05-11 17:03:02,947 WARN cluster: DEFAULT not found, ip: {"app":"unknown","clusterName":"DEFAULT","enabled":true,"ephemeral":true,"healthy":true,"instanceHeartBeatInterval":5000,"instanceHeartBeatTimeOut":15000,"instanceId":"192.168.47.1#20880#DEFAULT#DEFAULT_GROUP@@providers:com.learn.dubbo.api.HiService::","instanceIdGenerator":"","ip":"192.168.47.1","ipDeleteTimeout":30000,"lastBeat":1589187782901,"marked":false,"metadata":{"side":"provider","methods":"Hi","release":"2.7.4.1","deprecated":"false","dubbo":"2.0.2","pid":"5044","interface":"com.learn.dubbo.api.HiService","generic":"false","serialization":"kryo","path":"com.learn.dubbo.api.HiService","protocol":"dubbo","application":"dubbo-provider","dynamic":"true","category":"providers","anyhost":"true","bean.name":"ServiceBean:com.learn.dubbo.api.HiService","timestamp":"1589187781760"},"port":20880,"serviceName":"DEFAULT_GROUP@@providers:com.learn.dubbo.api.HiService::","tenant":"","weight":1.0}, will create new cluster with default configuration.
+
+2020-05-11 17:03:02,947 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@providers:com.learn.dubbo.api.HiService::, value: {"instanceList":[{"app":"unknown","clusterName":"DEFAULT","enabled":true,"ephemeral":true,"healthy":true,"instanceHeartBeatInterval":5000,"instanceHeartBeatTimeOut":15000,"instanceId":"192.168.47.1#20880#DEFAULT#DEFAULT_GROUP@@providers:com.learn.dubbo.api.HiService::","instanceIdGenerator":"","ip":"192.168.47.1","ipDeleteTimeout":30000,"lastBeat":1589187782901,"marked":false,"metadata":{"side":"provider","methods":"Hi","release":"2.7.4.1","deprecated":"false","dubbo":"2.0.2","pid":"5044","interface":"com.learn.dubbo.api.HiService","generic":"false","serialization":"kryo","path":"com.learn.dubbo.api.HiService","protocol":"dubbo","application":"dubbo-provider","dynamic":"true","category":"providers","anyhost":"true","bean.name":"ServiceBean:com.learn.dubbo.api.HiService","timestamp":"1589187781760"},"port":20880,"serviceName":"DEFAULT_GROUP@@providers:com.learn.dubbo.api.HiService::","tenant":"","weight":1.0}]}
+
+2020-05-11 17:03:03,072 INFO creating empty service public:DEFAULT_GROUP@@providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:dubbo-provider
+
+2020-05-11 17:03:03,072 INFO [NEW-SERVICE] {"appName":"","checksum":"a6304c56875f12b93d61f8a07e59ccb8","clusterMap":{},"empty":true,"enabled":true,"finalizeCount":0,"groupName":"DEFAULT_GROUP","ipDeleteTimeout":30000,"lastModifiedMillis":1589187783072,"metadata":{},"name":"DEFAULT_GROUP@@providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:dubbo-provider","namespaceId":"public","owners":[],"protectThreshold":0.0,"resetWeight":false,"selector":{"type":"none"},"token":""}
+
+2020-05-11 17:03:03,072 WARN cluster: DEFAULT not found, ip: {"app":"unknown","clusterName":"DEFAULT","enabled":true,"ephemeral":true,"healthy":true,"instanceHeartBeatInterval":5000,"instanceHeartBeatTimeOut":15000,"instanceId":"192.168.47.1#20880#DEFAULT#DEFAULT_GROUP@@providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:dubbo-provider","instanceIdGenerator":"","ip":"192.168.47.1","ipDeleteTimeout":30000,"lastBeat":1589187783072,"marked":false,"metadata":{"side":"provider","methods":"getAllServiceKeys,getServiceRestMetadata,getExportedURLs,getAllExportedURLs","release":"2.7.4.1","deprecated":"false","dubbo":"2.0.2","pid":"5044","interface":"com.alibaba.cloud.dubbo.service.DubboMetadataService","version":"1.0.0","generic":"false","revision":"2.2.0.RELEASE","serialization":"kryo","path":"com.alibaba.cloud.dubbo.service.DubboMetadataService","protocol":"dubbo","application":"dubbo-provider","dynamic":"true","category":"providers","anyhost":"true","group":"dubbo-provider","timestamp":"1589187783057"},"port":20880,"serviceName":"DEFAULT_GROUP@@providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:dubbo-provider","tenant":"","weight":1.0}, will create new cluster with default configuration.
+
+2020-05-11 17:03:03,072 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:dubbo-provider, value: {"instanceList":[{"app":"unknown","clusterName":"DEFAULT","enabled":true,"ephemeral":true,"healthy":true,"instanceHeartBeatInterval":5000,"instanceHeartBeatTimeOut":15000,"instanceId":"192.168.47.1#20880#DEFAULT#DEFAULT_GROUP@@providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:dubbo-provider","instanceIdGenerator":"","ip":"192.168.47.1","ipDeleteTimeout":30000,"lastBeat":1589187783072,"marked":false,"metadata":{"side":"provider","methods":"getAllServiceKeys,getServiceRestMetadata,getExportedURLs,getAllExportedURLs","release":"2.7.4.1","deprecated":"false","dubbo":"2.0.2","pid":"5044","interface":"com.alibaba.cloud.dubbo.service.DubboMetadataService","version":"1.0.0","generic":"false","revision":"2.2.0.RELEASE","serialization":"kryo","path":"com.alibaba.cloud.dubbo.service.DubboMetadataService","protocol":"dubbo","application":"dubbo-provider","dynamic":"true","category":"providers","anyhost":"true","group":"dubbo-provider","timestamp":"1589187783057"},"port":20880,"serviceName":"DEFAULT_GROUP@@providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:dubbo-provider","tenant":"","weight":1.0}]}
+
+2020-05-11 17:03:03,104 INFO creating empty service public:DEFAULT_GROUP@@dubbo-provider
+
+2020-05-11 17:03:03,104 INFO [NEW-SERVICE] {"appName":"","checksum":"86e7250a39f9ea3d6ddcb1550a37b019","clusterMap":{},"empty":true,"enabled":true,"finalizeCount":0,"groupName":"DEFAULT_GROUP","ipDeleteTimeout":30000,"lastModifiedMillis":1589187783104,"metadata":{},"name":"DEFAULT_GROUP@@dubbo-provider","namespaceId":"public","owners":[],"protectThreshold":0.0,"resetWeight":false,"selector":{"type":"none"},"token":""}
+
+2020-05-11 17:03:03,104 WARN cluster: DEFAULT not found, ip: {"app":"unknown","clusterName":"DEFAULT","enabled":true,"ephemeral":true,"healthy":true,"instanceHeartBeatInterval":5000,"instanceHeartBeatTimeOut":15000,"instanceId":"192.168.47.1#20880#DEFAULT#DEFAULT_GROUP@@dubbo-provider","instanceIdGenerator":"","ip":"192.168.47.1","ipDeleteTimeout":30000,"lastBeat":1589187783104,"marked":false,"metadata":{"dubbo.metadata-service.urls":"[ \"dubbo://192.168.47.1:20880/com.alibaba.cloud.dubbo.service.DubboMetadataService?anyhost=true&application=dubbo-provider&bind.ip=192.168.47.1&bind.port=20880&deprecated=false&dubbo=2.0.2&dynamic=true&generic=false&group=dubbo-provider&interface=com.alibaba.cloud.dubbo.service.DubboMetadataService&methods=getAllServiceKeys,getServiceRestMetadata,getExportedURLs,getAllExportedURLs&pid=5044&qos.enable=false&release=2.7.4.1&revision=2.2.0.RELEASE&serialization=kryo&side=provider&timestamp=1589187783057&version=1.0.0\" ]","dubbo.protocols.dubbo.port":"20880","preserved.register.source":"SPRING_CLOUD"},"port":20880,"serviceName":"DEFAULT_GROUP@@dubbo-provider","tenant":"","weight":1.0}, will create new cluster with default configuration.
+
+2020-05-11 17:03:03,104 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@dubbo-provider, value: {"instanceList":[{"app":"unknown","clusterName":"DEFAULT","enabled":true,"ephemeral":true,"healthy":true,"instanceHeartBeatInterval":5000,"instanceHeartBeatTimeOut":15000,"instanceId":"192.168.47.1#20880#DEFAULT#DEFAULT_GROUP@@dubbo-provider","instanceIdGenerator":"","ip":"192.168.47.1","ipDeleteTimeout":30000,"lastBeat":1589187783104,"marked":false,"metadata":{"dubbo.metadata-service.urls":"[ \"dubbo://192.168.47.1:20880/com.alibaba.cloud.dubbo.service.DubboMetadataService?anyhost=true&application=dubbo-provider&bind.ip=192.168.47.1&bind.port=20880&deprecated=false&dubbo=2.0.2&dynamic=true&generic=false&group=dubbo-provider&interface=com.alibaba.cloud.dubbo.service.DubboMetadataService&methods=getAllServiceKeys,getServiceRestMetadata,getExportedURLs,getAllExportedURLs&pid=5044&qos.enable=false&release=2.7.4.1&revision=2.2.0.RELEASE&serialization=kryo&side=provider&timestamp=1589187783057&version=1.0.0\" ]","dubbo.protocols.dubbo.port":"20880","preserved.register.source":"SPRING_CLOUD"},"port":20880,"serviceName":"DEFAULT_GROUP@@dubbo-provider","tenant":"","weight":1.0}]}
+
+2020-05-11 17:03:04,504 INFO receive config info: unknown#192.168.47.1:8848#1589187784504#4
+
+
+2020-05-11 17:03:06,505 INFO receive config info: unknown#192.168.47.1:8848#1589187786505#4
+
+
+2020-05-11 17:03:08,510 INFO receive config info: unknown#192.168.47.1:8848#1589187788510#4
+
+
+2020-05-11 17:03:10,517 INFO receive config info: unknown#192.168.47.1:8848#1589187790517#4
+
+
+2020-05-11 17:03:12,523 INFO receive config info: unknown#192.168.47.1:8848#1589187792523#4
+
+
+2020-05-11 17:03:14,524 INFO receive config info: unknown#192.168.47.1:8848#1589187794524#4
+
+
+2020-05-11 17:03:16,530 INFO receive config info: unknown#192.168.47.1:8848#1589187796530#4
+
+
+2020-05-11 17:03:18,535 INFO receive config info: unknown#192.168.47.1:8848#1589187798535#4
+
+
+2020-05-11 17:03:20,551 INFO receive config info: unknown#192.168.47.1:8848#1589187800551#4
+
+
+2020-05-11 17:03:22,555 INFO receive config info: unknown#192.168.47.1:8848#1589187802555#4
+
+
+2020-05-11 17:03:24,565 INFO receive config info: unknown#192.168.47.1:8848#1589187804565#4
+
+
+2020-05-11 17:03:26,570 INFO receive config info: unknown#192.168.47.1:8848#1589187806570#4
+
+
+2020-05-11 17:03:28,582 INFO receive config info: unknown#192.168.47.1:8848#1589187808582#4
+
+
+2020-05-11 17:03:30,592 INFO receive config info: unknown#192.168.47.1:8848#1589187810592#4
+
+
+2020-05-11 17:03:32,599 INFO receive config info: unknown#192.168.47.1:8848#1589187812599#4
+
+
+2020-05-11 17:03:34,602 INFO receive config info: unknown#192.168.47.1:8848#1589187814602#4
+
+
+2020-05-11 17:03:36,604 INFO receive config info: unknown#192.168.47.1:8848#1589187816604#4
+
+
+2020-05-11 17:03:38,605 INFO receive config info: unknown#192.168.47.1:8848#1589187818605#4
+
+
+2020-05-11 17:03:39,151 INFO creating empty service public:DEFAULT_GROUP@@consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:dubbo-provider
+
+2020-05-11 17:03:39,151 INFO [NEW-SERVICE] {"appName":"","checksum":"7772f776254f9e633b5ccf18c7577002","clusterMap":{},"empty":true,"enabled":true,"finalizeCount":0,"groupName":"DEFAULT_GROUP","ipDeleteTimeout":30000,"lastModifiedMillis":1589187819151,"metadata":{},"name":"DEFAULT_GROUP@@consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:dubbo-provider","namespaceId":"public","owners":[],"protectThreshold":0.0,"resetWeight":false,"selector":{"type":"none"},"token":""}
+
+2020-05-11 17:03:39,152 WARN cluster: DEFAULT not found, ip: {"app":"unknown","clusterName":"DEFAULT","enabled":true,"ephemeral":true,"healthy":true,"instanceHeartBeatInterval":5000,"instanceHeartBeatTimeOut":15000,"instanceId":"192.168.47.1#0#DEFAULT#DEFAULT_GROUP@@consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:dubbo-provider","instanceIdGenerator":"","ip":"192.168.47.1","ipDeleteTimeout":30000,"lastBeat":1589187819151,"marked":false,"metadata":{"side":"consumer","lazy":"false","release":"2.7.4.1","dubbo":"2.0.2","pid":"12500","check":"false","interface":"com.alibaba.cloud.dubbo.service.DubboMetadataService","version":"1.0.0","generic":"true","qos.enable":"false","path":"org.apache.dubbo.rpc.service.GenericService","protocol":"consumer","application":"dubbo-consumer","sticky":"false","category":"consumers","group":"dubbo-provider","timestamp":"1589187818496"},"port":0,"serviceName":"DEFAULT_GROUP@@consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:dubbo-provider","tenant":"","weight":1.0}, will create new cluster with default configuration.
+
+2020-05-11 17:03:39,152 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:dubbo-provider, value: {"instanceList":[{"app":"unknown","clusterName":"DEFAULT","enabled":true,"ephemeral":true,"healthy":true,"instanceHeartBeatInterval":5000,"instanceHeartBeatTimeOut":15000,"instanceId":"192.168.47.1#0#DEFAULT#DEFAULT_GROUP@@consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:dubbo-provider","instanceIdGenerator":"","ip":"192.168.47.1","ipDeleteTimeout":30000,"lastBeat":1589187819151,"marked":false,"metadata":{"side":"consumer","lazy":"false","release":"2.7.4.1","dubbo":"2.0.2","pid":"12500","check":"false","interface":"com.alibaba.cloud.dubbo.service.DubboMetadataService","version":"1.0.0","generic":"true","qos.enable":"false","path":"org.apache.dubbo.rpc.service.GenericService","protocol":"consumer","application":"dubbo-consumer","sticky":"false","category":"consumers","group":"dubbo-provider","timestamp":"1589187818496"},"port":0,"serviceName":"DEFAULT_GROUP@@consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:dubbo-provider","tenant":"","weight":1.0}]}
+
+2020-05-11 17:03:39,357 INFO creating empty service public:DEFAULT_GROUP@@consumers:com.learn.dubbo.api.HiService::
+
+2020-05-11 17:03:39,357 INFO [NEW-SERVICE] {"appName":"","checksum":"855cd68f86de646a4da8b6dbe68908fd","clusterMap":{},"empty":true,"enabled":true,"finalizeCount":0,"groupName":"DEFAULT_GROUP","ipDeleteTimeout":30000,"lastModifiedMillis":1589187819357,"metadata":{},"name":"DEFAULT_GROUP@@consumers:com.learn.dubbo.api.HiService::","namespaceId":"public","owners":[],"protectThreshold":0.0,"resetWeight":false,"selector":{"type":"none"},"token":""}
+
+2020-05-11 17:03:39,357 WARN cluster: DEFAULT not found, ip: {"app":"unknown","clusterName":"DEFAULT","enabled":true,"ephemeral":true,"healthy":true,"instanceHeartBeatInterval":5000,"instanceHeartBeatTimeOut":15000,"instanceId":"192.168.47.1#0#DEFAULT#DEFAULT_GROUP@@consumers:com.learn.dubbo.api.HiService::","instanceIdGenerator":"","ip":"192.168.47.1","ipDeleteTimeout":30000,"lastBeat":1589187819357,"marked":false,"metadata":{"side":"consumer","lazy":"false","methods":"Hi","release":"2.7.4.1","dubbo":"2.0.2","pid":"12500","check":"false","interface":"com.learn.dubbo.api.HiService","qos.enable":"false","path":"com.learn.dubbo.api.HiService","protocol":"consumer","application":"dubbo-consumer","sticky":"false","category":"consumers","timestamp":"1589187818340"},"port":0,"serviceName":"DEFAULT_GROUP@@consumers:com.learn.dubbo.api.HiService::","tenant":"","weight":1.0}, will create new cluster with default configuration.
+
+2020-05-11 17:03:39,357 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@consumers:com.learn.dubbo.api.HiService::, value: {"instanceList":[{"app":"unknown","clusterName":"DEFAULT","enabled":true,"ephemeral":true,"healthy":true,"instanceHeartBeatInterval":5000,"instanceHeartBeatTimeOut":15000,"instanceId":"192.168.47.1#0#DEFAULT#DEFAULT_GROUP@@consumers:com.learn.dubbo.api.HiService::","instanceIdGenerator":"","ip":"192.168.47.1","ipDeleteTimeout":30000,"lastBeat":1589187819357,"marked":false,"metadata":{"side":"consumer","lazy":"false","methods":"Hi","release":"2.7.4.1","dubbo":"2.0.2","pid":"12500","check":"false","interface":"com.learn.dubbo.api.HiService","qos.enable":"false","path":"com.learn.dubbo.api.HiService","protocol":"consumer","application":"dubbo-consumer","sticky":"false","category":"consumers","timestamp":"1589187818340"},"port":0,"serviceName":"DEFAULT_GROUP@@consumers:com.learn.dubbo.api.HiService::","tenant":"","weight":1.0}]}
+
+2020-05-11 17:03:40,608 INFO receive config info: unknown#192.168.47.1:8848#1589187820608#4
+
+
+2020-05-11 17:03:41,156 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:dubbo-provider, value: {"instanceList":[]}
+
+2020-05-11 17:03:41,160 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@consumers:com.learn.dubbo.api.HiService::, value: {"instanceList":[]}
+
+2020-05-11 17:03:42,610 INFO receive config info: unknown#192.168.47.1:8848#1589187822610#4
+
+
+2020-05-11 17:03:44,627 INFO receive config info: unknown#192.168.47.1:8848#1589187824627#4
+
+
+2020-05-11 17:03:46,629 INFO [NACOS-DISTRO] distro threshold restored and stable now, enable health check. current ratio: 1.0
+
+2020-05-11 17:03:46,629 INFO receive config info: unknown#192.168.47.1:8848#1589187826629#4
+
+
+2020-05-11 17:03:48,630 INFO receive config info: unknown#192.168.47.1:8848#1589187828630#4
+
+
+2020-05-11 17:03:50,633 INFO receive config info: unknown#192.168.47.1:8848#1589187830633#4
+
+
+2020-05-11 17:03:52,641 INFO receive config info: unknown#192.168.47.1:8848#1589187832641#4
+
+
+2020-05-11 17:03:54,645 INFO receive config info: unknown#192.168.47.1:8848#1589187834645#4
+
+
+2020-05-11 17:03:56,648 INFO receive config info: unknown#192.168.47.1:8848#1589187836648#4
+
+
+2020-05-11 17:03:58,649 INFO receive config info: unknown#192.168.47.1:8848#1589187838649#4
+
+
+2020-05-11 17:04:00,657 INFO receive config info: unknown#192.168.47.1:8848#1589187840657#4
+
+
+2020-05-11 17:04:02,669 INFO receive config info: unknown#192.168.47.1:8848#1589187842669#4
+
+
+2020-05-11 17:04:04,681 INFO receive config info: unknown#192.168.47.1:8848#1589187844681#4
+
+
+2020-05-11 17:04:06,692 INFO receive config info: unknown#192.168.47.1:8848#1589187846692#4
+
+
+2020-05-11 17:04:08,701 INFO receive config info: unknown#192.168.47.1:8848#1589187848701#4
+
+
+2020-05-11 17:04:10,711 INFO receive config info: unknown#192.168.47.1:8848#1589187850711#4
+
+
+2020-05-11 17:04:12,713 INFO receive config info: unknown#192.168.47.1:8848#1589187852713#4
+
+
+2020-05-11 17:04:14,715 INFO receive config info: unknown#192.168.47.1:8848#1589187854715#4
+
+
+2020-05-11 17:04:16,723 INFO receive config info: unknown#192.168.47.1:8848#1589187856723#4
+
+
+2020-05-11 17:04:18,729 INFO receive config info: unknown#192.168.47.1:8848#1589187858729#4
+
+
+2020-05-11 17:04:20,730 INFO receive config info: unknown#192.168.47.1:8848#1589187860730#4
+
+
+2020-05-11 17:04:22,732 INFO receive config info: unknown#192.168.47.1:8848#1589187862732#4
+
+
+2020-05-11 17:04:24,733 INFO receive config info: unknown#192.168.47.1:8848#1589187864733#4
+
+
+2020-05-11 17:04:26,734 INFO receive config info: unknown#192.168.47.1:8848#1589187866734#4
+
+
+2020-05-11 17:04:28,743 INFO receive config info: unknown#192.168.47.1:8848#1589187868743#4
+
+
+2020-05-11 17:04:30,748 INFO receive config info: unknown#192.168.47.1:8848#1589187870748#4
+
+
+2020-05-11 17:04:32,748 INFO receive config info: unknown#192.168.47.1:8848#1589187872748#4
+
+
+2020-05-11 17:04:34,749 INFO receive config info: unknown#192.168.47.1:8848#1589187874749#4
+
+
+2020-05-11 17:04:36,758 INFO receive config info: unknown#192.168.47.1:8848#1589187876758#4
+
+
+2020-05-11 17:04:38,759 INFO receive config info: unknown#192.168.47.1:8848#1589187878759#4
+
+
+2020-05-11 17:04:40,765 INFO receive config info: unknown#192.168.47.1:8848#1589187880765#4
+
+
+2020-05-11 17:04:42,767 INFO receive config info: unknown#192.168.47.1:8848#1589187882767#4
+
+
+2020-05-11 17:04:44,768 INFO receive config info: unknown#192.168.47.1:8848#1589187884768#4
+
+
+2020-05-11 17:04:46,769 INFO receive config info: unknown#192.168.47.1:8848#1589187886769#4
+
+
+2020-05-11 17:04:48,771 INFO receive config info: unknown#192.168.47.1:8848#1589187888771#4
+
+
+2020-05-11 17:04:50,783 INFO receive config info: unknown#192.168.47.1:8848#1589187890783#4
+
+
+2020-05-11 17:04:52,784 INFO receive config info: unknown#192.168.47.1:8848#1589187892784#4
+
+
+2020-05-11 17:04:54,799 INFO receive config info: unknown#192.168.47.1:8848#1589187894799#4
+
+
+2020-05-11 17:04:56,800 INFO receive config info: unknown#192.168.47.1:8848#1589187896800#4
+
+
+2020-05-11 17:04:58,802 INFO receive config info: unknown#192.168.47.1:8848#1589187898802#4
+
+
+2020-05-11 17:05:00,812 INFO receive config info: unknown#192.168.47.1:8848#1589187900812#4
+
+
+2020-05-11 17:05:02,822 INFO receive config info: unknown#192.168.47.1:8848#1589187902822#4
+
+
+2020-05-11 17:05:04,825 INFO receive config info: unknown#192.168.47.1:8848#1589187904825#4
+
+
+2020-05-11 17:05:06,832 INFO receive config info: unknown#192.168.47.1:8848#1589187906832#4
+
+
+2020-05-11 17:05:08,843 INFO receive config info: unknown#192.168.47.1:8848#1589187908843#4
+
+
+2020-05-11 17:05:10,860 INFO receive config info: unknown#192.168.47.1:8848#1589187910860#4
+
+
+2020-05-11 17:05:12,864 INFO receive config info: unknown#192.168.47.1:8848#1589187912864#4
+
+
+2020-05-11 17:05:14,870 INFO receive config info: unknown#192.168.47.1:8848#1589187914870#4
+
+
+2020-05-11 17:05:16,870 INFO receive config info: unknown#192.168.47.1:8848#1589187916870#4
+
+
+2020-05-11 17:05:18,882 INFO receive config info: unknown#192.168.47.1:8848#1589187918882#4
+
+
+2020-05-11 17:05:20,884 INFO receive config info: unknown#192.168.47.1:8848#1589187920884#4
+
+
+2020-05-11 17:05:22,885 INFO receive config info: unknown#192.168.47.1:8848#1589187922885#4
+
+
+2020-05-11 17:05:24,892 INFO receive config info: unknown#192.168.47.1:8848#1589187924892#4
+
+
+2020-05-11 17:05:26,911 INFO receive config info: unknown#192.168.47.1:8848#1589187926911#4
+
+
+2020-05-11 17:05:28,917 INFO receive config info: unknown#192.168.47.1:8848#1589187928917#4
+
+
+2020-05-11 17:05:30,923 INFO receive config info: unknown#192.168.47.1:8848#1589187930923#4
+
+
+2020-05-11 17:05:32,929 INFO receive config info: unknown#192.168.47.1:8848#1589187932929#4
+
+
+2020-05-11 17:05:34,930 INFO receive config info: unknown#192.168.47.1:8848#1589187934930#4
+
+
+2020-05-11 17:05:36,932 INFO receive config info: unknown#192.168.47.1:8848#1589187936932#4
+
+
+2020-05-11 17:05:38,933 INFO receive config info: unknown#192.168.47.1:8848#1589187938933#4
+
+
+2020-05-11 17:05:40,935 INFO receive config info: unknown#192.168.47.1:8848#1589187940935#4
+
+
+2020-05-11 17:05:42,936 INFO receive config info: unknown#192.168.47.1:8848#1589187942936#4
+
+
+2020-05-11 17:05:44,938 INFO receive config info: unknown#192.168.47.1:8848#1589187944938#4
+
+
+2020-05-11 17:05:46,939 INFO receive config info: unknown#192.168.47.1:8848#1589187946939#4
+
+
+2020-05-11 17:05:48,940 INFO receive config info: unknown#192.168.47.1:8848#1589187948940#4
+
+
+2020-05-11 17:05:50,955 INFO receive config info: unknown#192.168.47.1:8848#1589187950955#4
+
+
+2020-05-11 17:05:52,967 INFO receive config info: unknown#192.168.47.1:8848#1589187952967#4
+
+
+2020-05-11 17:05:54,974 INFO receive config info: unknown#192.168.47.1:8848#1589187954974#4
+
+
+2020-05-11 17:05:56,976 INFO receive config info: unknown#192.168.47.1:8848#1589187956976#4
+
+
+2020-05-11 17:05:58,977 INFO receive config info: unknown#192.168.47.1:8848#1589187958977#4
+
+
+2020-05-11 17:06:00,978 INFO receive config info: unknown#192.168.47.1:8848#1589187960978#4
+
+
+2020-05-11 17:06:02,992 INFO receive config info: unknown#192.168.47.1:8848#1589187962992#4
+
+
+2020-05-11 17:06:04,998 INFO receive config info: unknown#192.168.47.1:8848#1589187964998#4
+
+
+2020-05-11 17:06:06,999 INFO receive config info: unknown#192.168.47.1:8848#1589187966999#4
+
+
+2020-05-11 17:06:09,001 INFO receive config info: unknown#192.168.47.1:8848#1589187969001#4
+
+
+2020-05-11 17:06:11,002 INFO receive config info: unknown#192.168.47.1:8848#1589187971002#4
+
+
+2020-05-11 17:06:13,017 INFO receive config info: unknown#192.168.47.1:8848#1589187973017#4
+
+
+2020-05-11 17:06:15,027 INFO receive config info: unknown#192.168.47.1:8848#1589187975027#4
+
+
+2020-05-11 17:06:17,028 INFO receive config info: unknown#192.168.47.1:8848#1589187977028#4
+
+
+2020-05-11 17:06:19,042 INFO receive config info: unknown#192.168.47.1:8848#1589187979042#4
+
+
+2020-05-11 17:06:21,051 INFO receive config info: unknown#192.168.47.1:8848#1589187981051#4
+
+
+2020-05-11 17:06:23,063 INFO receive config info: unknown#192.168.47.1:8848#1589187983063#4
+
+
+2020-05-11 17:06:25,075 INFO receive config info: unknown#192.168.47.1:8848#1589187985075#4
+
+
+2020-05-11 17:06:27,079 INFO receive config info: unknown#192.168.47.1:8848#1589187987079#4
+
+
+2020-05-11 17:06:29,085 INFO receive config info: unknown#192.168.47.1:8848#1589187989085#4
+
+
+2020-05-11 17:06:31,101 INFO receive config info: unknown#192.168.47.1:8848#1589187991101#4
+
+
+2020-05-11 17:06:33,103 INFO receive config info: unknown#192.168.47.1:8848#1589187993103#4
+
+
+2020-05-11 17:06:35,114 INFO receive config info: unknown#192.168.47.1:8848#1589187995114#4
+
+
+2020-05-11 17:06:37,115 INFO receive config info: unknown#192.168.47.1:8848#1589187997115#4
+
+
+2020-05-11 17:06:39,120 INFO receive config info: unknown#192.168.47.1:8848#1589187999120#4
+
+
+2020-05-11 17:06:41,125 INFO receive config info: unknown#192.168.47.1:8848#1589188001125#4
+
+
+2020-05-11 17:06:43,126 INFO receive config info: unknown#192.168.47.1:8848#1589188003126#4
+
+
+2020-05-11 17:06:45,128 INFO receive config info: unknown#192.168.47.1:8848#1589188005128#4
+
+
+2020-05-11 17:06:47,130 INFO receive config info: unknown#192.168.47.1:8848#1589188007130#4
+
+
+2020-05-11 17:06:49,131 INFO receive config info: unknown#192.168.47.1:8848#1589188009131#4
+
+
+2020-05-11 17:06:51,132 INFO receive config info: unknown#192.168.47.1:8848#1589188011132#4
+
+
+2020-05-11 17:06:53,141 INFO receive config info: unknown#192.168.47.1:8848#1589188013141#4
+
+
+2020-05-11 17:06:55,145 INFO receive config info: unknown#192.168.47.1:8848#1589188015145#4
+
+
+2020-05-11 17:06:57,148 INFO receive config info: unknown#192.168.47.1:8848#1589188017148#4
+
+
+2020-05-11 17:06:59,164 INFO receive config info: unknown#192.168.47.1:8848#1589188019164#4
+
+
+2020-05-11 17:07:01,180 INFO receive config info: unknown#192.168.47.1:8848#1589188021180#4
+
+
+2020-05-11 17:07:03,182 INFO receive config info: unknown#192.168.47.1:8848#1589188023182#4
+
+
+2020-05-11 17:07:05,183 INFO receive config info: unknown#192.168.47.1:8848#1589188025183#4
+
+
+2020-05-11 17:07:07,184 INFO receive config info: unknown#192.168.47.1:8848#1589188027184#4
+
+
+2020-05-11 17:07:09,185 INFO receive config info: unknown#192.168.47.1:8848#1589188029185#4
+
+
+2020-05-11 17:07:11,187 INFO receive config info: unknown#192.168.47.1:8848#1589188031187#4
+
+
+2020-05-11 17:07:13,189 INFO receive config info: unknown#192.168.47.1:8848#1589188033189#4
+
+
+2020-05-11 17:07:15,189 INFO receive config info: unknown#192.168.47.1:8848#1589188035189#4
+
+
+2020-05-11 17:07:17,191 INFO receive config info: unknown#192.168.47.1:8848#1589188037191#4
+
+
+2020-05-11 17:07:19,193 INFO receive config info: unknown#192.168.47.1:8848#1589188039193#4
+
+
+2020-05-11 17:07:21,194 INFO receive config info: unknown#192.168.47.1:8848#1589188041194#4
+
+
+2020-05-11 17:07:23,208 INFO receive config info: unknown#192.168.47.1:8848#1589188043208#4
+
+
+2020-05-11 17:07:25,224 INFO receive config info: unknown#192.168.47.1:8848#1589188045224#4
+
+
+2020-05-11 17:07:27,225 INFO receive config info: unknown#192.168.47.1:8848#1589188047225#4
+
+
+2020-05-11 17:07:29,226 INFO receive config info: unknown#192.168.47.1:8848#1589188049226#4
+
+
+2020-05-11 17:07:31,239 INFO receive config info: unknown#192.168.47.1:8848#1589188051239#4
+
+
+2020-05-11 17:07:33,242 INFO receive config info: unknown#192.168.47.1:8848#1589188053242#4
+
+
+2020-05-11 17:07:35,243 INFO receive config info: unknown#192.168.47.1:8848#1589188055243#4
+
+
+2020-05-11 17:07:37,244 INFO receive config info: unknown#192.168.47.1:8848#1589188057244#4
+
+
+2020-05-11 17:07:39,245 INFO receive config info: unknown#192.168.47.1:8848#1589188059245#4
+
+
+2020-05-11 17:07:41,246 INFO receive config info: unknown#192.168.47.1:8848#1589188061246#4
+
+
+2020-05-11 17:07:43,247 INFO receive config info: unknown#192.168.47.1:8848#1589188063247#4
+
+
+2020-05-11 17:07:45,249 INFO receive config info: unknown#192.168.47.1:8848#1589188065249#4
+
+
+2020-05-11 17:07:47,250 INFO receive config info: unknown#192.168.47.1:8848#1589188067250#4
+
+
+2020-05-11 17:07:49,254 INFO receive config info: unknown#192.168.47.1:8848#1589188069254#4
+
+
+2020-05-11 17:07:51,263 INFO receive config info: unknown#192.168.47.1:8848#1589188071263#4
+
+
+2020-05-11 17:07:53,265 INFO receive config info: unknown#192.168.47.1:8848#1589188073265#4
+
+
+2020-05-11 17:07:55,269 INFO receive config info: unknown#192.168.47.1:8848#1589188075269#4
+
+
+2020-05-11 17:07:57,273 INFO receive config info: unknown#192.168.47.1:8848#1589188077273#4
+
+
+2020-05-11 17:07:59,275 INFO receive config info: unknown#192.168.47.1:8848#1589188079275#4
+
+
+2020-05-11 17:08:01,277 INFO receive config info: unknown#192.168.47.1:8848#1589188081277#4
+
+
+2020-05-11 17:08:03,279 INFO receive config info: unknown#192.168.47.1:8848#1589188083279#4
+
+
+2020-05-11 17:08:05,281 INFO receive config info: unknown#192.168.47.1:8848#1589188085281#4
+
+
+2020-05-11 17:08:07,287 INFO receive config info: unknown#192.168.47.1:8848#1589188087287#4
+
+
+2020-05-11 17:08:09,299 INFO receive config info: unknown#192.168.47.1:8848#1589188089299#4
+
+
+2020-05-11 17:08:11,307 INFO receive config info: unknown#192.168.47.1:8848#1589188091307#4
+
+
+2020-05-11 17:08:13,309 INFO receive config info: unknown#192.168.47.1:8848#1589188093309#4
+
+
+2020-05-11 17:08:15,304 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@providers:com.learn.dubbo.api.HiService::, value: {"instanceList":[{"app":"unknown","clusterName":"DEFAULT","enabled":true,"ephemeral":true,"healthy":true,"instanceHeartBeatInterval":5000,"instanceHeartBeatTimeOut":15000,"instanceId":"192.168.47.1#20880#DEFAULT#DEFAULT_GROUP@@providers:com.learn.dubbo.api.HiService::","instanceIdGenerator":"","ip":"192.168.47.1","ipDeleteTimeout":30000,"lastBeat":1589188095304,"marked":false,"metadata":{"side":"provider","methods":"Hi","release":"2.7.4.1","deprecated":"false","dubbo":"2.0.2","pid":"14804","interface":"com.learn.dubbo.api.HiService","generic":"false","serialization":"kryo","path":"com.learn.dubbo.api.HiService","protocol":"dubbo","application":"dubbo-provider","dynamic":"true","category":"providers","anyhost":"true","bean.name":"ServiceBean:com.learn.dubbo.api.HiService","timestamp":"1589188094176"},"port":20880,"serviceName":"DEFAULT_GROUP@@providers:com.learn.dubbo.api.HiService::","tenant":"","weight":1.0}]}
+
+2020-05-11 17:08:15,319 INFO receive config info: unknown#192.168.47.1:8848#1589188095319#4
+
+
+2020-05-11 17:08:15,429 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:dubbo-provider, value: {"instanceList":[{"app":"unknown","clusterName":"DEFAULT","enabled":true,"ephemeral":true,"healthy":true,"instanceHeartBeatInterval":5000,"instanceHeartBeatTimeOut":15000,"instanceId":"192.168.47.1#20880#DEFAULT#DEFAULT_GROUP@@providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:dubbo-provider","instanceIdGenerator":"","ip":"192.168.47.1","ipDeleteTimeout":30000,"lastBeat":1589188095429,"marked":false,"metadata":{"side":"provider","methods":"getAllServiceKeys,getServiceRestMetadata,getExportedURLs,getAllExportedURLs","release":"2.7.4.1","deprecated":"false","dubbo":"2.0.2","pid":"14804","interface":"com.alibaba.cloud.dubbo.service.DubboMetadataService","version":"1.0.0","generic":"false","revision":"2.2.0.RELEASE","serialization":"kryo","path":"com.alibaba.cloud.dubbo.service.DubboMetadataService","protocol":"dubbo","application":"dubbo-provider","dynamic":"true","category":"providers","anyhost":"true","group":"dubbo-provider","timestamp":"1589188095413"},"port":20880,"serviceName":"DEFAULT_GROUP@@providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:dubbo-provider","tenant":"","weight":1.0}]}
+
+2020-05-11 17:08:15,444 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@dubbo-provider, value: {"instanceList":[{"app":"unknown","clusterName":"DEFAULT","enabled":true,"ephemeral":true,"healthy":true,"instanceHeartBeatInterval":5000,"instanceHeartBeatTimeOut":15000,"instanceId":"192.168.47.1#20880#DEFAULT#DEFAULT_GROUP@@dubbo-provider","instanceIdGenerator":"","ip":"192.168.47.1","ipDeleteTimeout":30000,"lastBeat":1589188095444,"marked":false,"metadata":{"dubbo.metadata-service.urls":"[ \"dubbo://192.168.47.1:20880/com.alibaba.cloud.dubbo.service.DubboMetadataService?anyhost=true&application=dubbo-provider&bind.ip=192.168.47.1&bind.port=20880&deprecated=false&dubbo=2.0.2&dynamic=true&generic=false&group=dubbo-provider&interface=com.alibaba.cloud.dubbo.service.DubboMetadataService&methods=getAllServiceKeys,getServiceRestMetadata,getExportedURLs,getAllExportedURLs&pid=14804&qos.enable=false&release=2.7.4.1&revision=2.2.0.RELEASE&serialization=kryo&side=provider&timestamp=1589188095413&version=1.0.0\" ]","dubbo.protocols.dubbo.port":"20880","preserved.register.source":"SPRING_CLOUD"},"port":20880,"serviceName":"DEFAULT_GROUP@@dubbo-provider","tenant":"","weight":1.0}]}
+
+2020-05-11 17:08:17,337 INFO receive config info: unknown#192.168.47.1:8848#1589188097337#4
+
+
+2020-05-11 17:08:19,338 INFO receive config info: unknown#192.168.47.1:8848#1589188099338#4
+
+
+2020-05-11 17:08:21,348 INFO receive config info: unknown#192.168.47.1:8848#1589188101348#4
+
+
+2020-05-11 17:08:23,350 INFO receive config info: unknown#192.168.47.1:8848#1589188103350#4
+
+
+2020-05-11 17:08:25,351 INFO receive config info: unknown#192.168.47.1:8848#1589188105351#4
+
+
+2020-05-11 17:08:27,352 INFO receive config info: unknown#192.168.47.1:8848#1589188107352#4
+
+
+2020-05-11 17:08:29,366 INFO receive config info: unknown#192.168.47.1:8848#1589188109366#4
+
+
+2020-05-11 17:08:31,369 INFO receive config info: unknown#192.168.47.1:8848#1589188111369#4
+
+
+2020-05-11 17:08:33,371 INFO receive config info: unknown#192.168.47.1:8848#1589188113371#4
+
+
+2020-05-11 17:08:35,382 INFO receive config info: unknown#192.168.47.1:8848#1589188115382#4
+
+
+2020-05-11 17:08:37,384 INFO receive config info: unknown#192.168.47.1:8848#1589188117384#4
+
+
+2020-05-11 17:08:39,384 INFO receive config info: unknown#192.168.47.1:8848#1589188119384#4
+
+
+2020-05-11 17:08:41,385 INFO receive config info: unknown#192.168.47.1:8848#1589188121385#4
+
+
+2020-05-11 17:08:43,398 INFO receive config info: unknown#192.168.47.1:8848#1589188123398#4
+
+
+2020-05-11 17:08:45,411 INFO receive config info: unknown#192.168.47.1:8848#1589188125411#4
+
+
+2020-05-11 17:08:47,427 INFO receive config info: unknown#192.168.47.1:8848#1589188127427#4
+
+
+2020-05-11 17:08:49,440 INFO receive config info: unknown#192.168.47.1:8848#1589188129440#4
+
+
+2020-05-11 17:08:51,449 INFO receive config info: unknown#192.168.47.1:8848#1589188131449#4
+
+
+2020-05-11 17:08:53,455 INFO receive config info: unknown#192.168.47.1:8848#1589188133455#4
+
+
+2020-05-11 17:08:55,466 INFO receive config info: unknown#192.168.47.1:8848#1589188135466#4
+
+
+2020-05-11 17:08:57,476 INFO receive config info: unknown#192.168.47.1:8848#1589188137476#4
+
+
+2020-05-11 17:08:59,483 INFO receive config info: unknown#192.168.47.1:8848#1589188139483#4
+
+
+2020-05-11 17:09:01,473 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@providers:com.learn.dubbo.api.HiService::, value: {"instanceList":[{"app":"unknown","clusterName":"DEFAULT","enabled":true,"ephemeral":true,"healthy":true,"instanceHeartBeatInterval":5000,"instanceHeartBeatTimeOut":15000,"instanceId":"192.168.47.1#20880#DEFAULT#DEFAULT_GROUP@@providers:com.learn.dubbo.api.HiService::","instanceIdGenerator":"","ip":"192.168.47.1","ipDeleteTimeout":30000,"lastBeat":1589188141473,"marked":false,"metadata":{"side":"provider","methods":"Hi","release":"2.7.4.1","deprecated":"false","dubbo":"2.0.2","pid":"4076","interface":"com.learn.dubbo.api.HiService","generic":"false","serialization":"kryo","path":"com.learn.dubbo.api.HiService","protocol":"dubbo","application":"dubbo-provider","dynamic":"true","category":"providers","anyhost":"true","bean.name":"ServiceBean:com.learn.dubbo.api.HiService","timestamp":"1589188140359"},"port":20880,"serviceName":"DEFAULT_GROUP@@providers:com.learn.dubbo.api.HiService::","tenant":"","weight":1.0}]}
+
+2020-05-11 17:09:01,488 INFO receive config info: unknown#192.168.47.1:8848#1589188141488#4
+
+
+2020-05-11 17:09:01,588 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:dubbo-provider, value: {"instanceList":[{"app":"unknown","clusterName":"DEFAULT","enabled":true,"ephemeral":true,"healthy":true,"instanceHeartBeatInterval":5000,"instanceHeartBeatTimeOut":15000,"instanceId":"192.168.47.1#20880#DEFAULT#DEFAULT_GROUP@@providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:dubbo-provider","instanceIdGenerator":"","ip":"192.168.47.1","ipDeleteTimeout":30000,"lastBeat":1589188141588,"marked":false,"metadata":{"side":"provider","methods":"getAllServiceKeys,getServiceRestMetadata,getExportedURLs,getAllExportedURLs","release":"2.7.4.1","deprecated":"false","dubbo":"2.0.2","pid":"4076","interface":"com.alibaba.cloud.dubbo.service.DubboMetadataService","version":"1.0.0","generic":"false","revision":"2.2.0.RELEASE","serialization":"kryo","path":"com.alibaba.cloud.dubbo.service.DubboMetadataService","protocol":"dubbo","application":"dubbo-provider","dynamic":"true","category":"providers","anyhost":"true","group":"dubbo-provider","timestamp":"1589188141572"},"port":20880,"serviceName":"DEFAULT_GROUP@@providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:dubbo-provider","tenant":"","weight":1.0}]}
+
+2020-05-11 17:09:01,604 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@dubbo-provider, value: {"instanceList":[{"app":"unknown","clusterName":"DEFAULT","enabled":true,"ephemeral":true,"healthy":true,"instanceHeartBeatInterval":5000,"instanceHeartBeatTimeOut":15000,"instanceId":"192.168.47.1#20880#DEFAULT#DEFAULT_GROUP@@dubbo-provider","instanceIdGenerator":"","ip":"192.168.47.1","ipDeleteTimeout":30000,"lastBeat":1589188141604,"marked":false,"metadata":{"dubbo.metadata-service.urls":"[ \"dubbo://192.168.47.1:20880/com.alibaba.cloud.dubbo.service.DubboMetadataService?anyhost=true&application=dubbo-provider&bind.ip=192.168.47.1&bind.port=20880&deprecated=false&dubbo=2.0.2&dynamic=true&generic=false&group=dubbo-provider&interface=com.alibaba.cloud.dubbo.service.DubboMetadataService&methods=getAllServiceKeys,getServiceRestMetadata,getExportedURLs,getAllExportedURLs&pid=4076&qos.enable=false&release=2.7.4.1&revision=2.2.0.RELEASE&serialization=kryo&side=provider&timestamp=1589188141572&version=1.0.0\" ]","dubbo.protocols.dubbo.port":"20880","preserved.register.source":"SPRING_CLOUD"},"port":20880,"serviceName":"DEFAULT_GROUP@@dubbo-provider","tenant":"","weight":1.0}]}
+
+2020-05-11 17:09:03,496 INFO receive config info: unknown#192.168.47.1:8848#1589188143496#4
+
+
+2020-05-11 17:09:05,497 INFO receive config info: unknown#192.168.47.1:8848#1589188145497#4
+
+
+2020-05-11 17:09:07,503 INFO receive config info: unknown#192.168.47.1:8848#1589188147503#4
+
+
+2020-05-11 17:09:09,504 INFO receive config info: unknown#192.168.47.1:8848#1589188149504#4
+
+
+2020-05-11 17:09:11,507 INFO receive config info: unknown#192.168.47.1:8848#1589188151507#4
+
+
+2020-05-11 17:09:13,514 INFO receive config info: unknown#192.168.47.1:8848#1589188153514#4
+
+
+2020-05-11 17:09:15,519 INFO receive config info: unknown#192.168.47.1:8848#1589188155519#4
+
+
+2020-05-11 17:09:17,520 INFO receive config info: unknown#192.168.47.1:8848#1589188157520#4
+
+
+2020-05-11 17:09:17,567 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:dubbo-provider, value: {"instanceList":[{"app":"unknown","clusterName":"DEFAULT","enabled":true,"ephemeral":true,"healthy":true,"instanceHeartBeatInterval":5000,"instanceHeartBeatTimeOut":15000,"instanceId":"192.168.47.1#0#DEFAULT#DEFAULT_GROUP@@consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:dubbo-provider","instanceIdGenerator":"","ip":"192.168.47.1","ipDeleteTimeout":30000,"lastBeat":1589188157567,"marked":false,"metadata":{"side":"consumer","lazy":"false","release":"2.7.4.1","dubbo":"2.0.2","pid":"13520","check":"false","interface":"com.alibaba.cloud.dubbo.service.DubboMetadataService","version":"1.0.0","generic":"true","qos.enable":"false","path":"org.apache.dubbo.rpc.service.GenericService","protocol":"consumer","application":"dubbo-consumer","sticky":"false","category":"consumers","group":"dubbo-provider","timestamp":"1589188156789"},"port":0,"serviceName":"DEFAULT_GROUP@@consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:dubbo-provider","tenant":"","weight":1.0}]}
+
+2020-05-11 17:09:17,835 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@consumers:com.learn.dubbo.api.HiService::, value: {"instanceList":[{"app":"unknown","clusterName":"DEFAULT","enabled":true,"ephemeral":true,"healthy":true,"instanceHeartBeatInterval":5000,"instanceHeartBeatTimeOut":15000,"instanceId":"192.168.47.1#0#DEFAULT#DEFAULT_GROUP@@consumers:com.learn.dubbo.api.HiService::","instanceIdGenerator":"","ip":"192.168.47.1","ipDeleteTimeout":30000,"lastBeat":1589188157835,"marked":false,"metadata":{"side":"consumer","lazy":"false","methods":"Hi","release":"2.7.4.1","dubbo":"2.0.2","pid":"13520","check":"false","interface":"com.learn.dubbo.api.HiService","qos.enable":"false","path":"com.learn.dubbo.api.HiService","protocol":"consumer","application":"dubbo-consumer","sticky":"false","category":"consumers","timestamp":"1589188156601"},"port":0,"serviceName":"DEFAULT_GROUP@@consumers:com.learn.dubbo.api.HiService::","tenant":"","weight":1.0}]}
+
+2020-05-11 17:09:19,526 INFO receive config info: unknown#192.168.47.1:8848#1589188159526#4
+
+
+2020-05-11 17:09:19,948 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@consumers:com.learn.dubbo.api.HiService::, value: {"instanceList":[]}
+
+2020-05-11 17:09:19,948 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:dubbo-provider, value: {"instanceList":[]}
+
+2020-05-11 17:09:21,533 INFO receive config info: unknown#192.168.47.1:8848#1589188161533#4
+
+
+2020-05-11 17:09:23,538 INFO receive config info: unknown#192.168.47.1:8848#1589188163538#4
+
+
+2020-05-11 17:09:25,539 INFO receive config info: unknown#192.168.47.1:8848#1589188165539#4
+
+
+2020-05-11 17:09:27,546 INFO receive config info: unknown#192.168.47.1:8848#1589188167546#4
+
+
+2020-05-11 17:09:29,551 INFO receive config info: unknown#192.168.47.1:8848#1589188169551#4
+
+
+2020-05-11 17:09:31,552 INFO receive config info: unknown#192.168.47.1:8848#1589188171552#4
+
+
+2020-05-11 17:09:33,566 INFO receive config info: unknown#192.168.47.1:8848#1589188173566#4
+
+
+2020-05-11 17:09:35,580 INFO receive config info: unknown#192.168.47.1:8848#1589188175580#4
+
+
+2020-05-11 17:09:37,586 INFO receive config info: unknown#192.168.47.1:8848#1589188177586#4
+
+
+2020-05-11 17:09:39,602 INFO receive config info: unknown#192.168.47.1:8848#1589188179602#4
+
+
+2020-05-11 17:09:41,604 INFO receive config info: unknown#192.168.47.1:8848#1589188181604#4
+
+
+2020-05-11 17:09:43,614 INFO receive config info: unknown#192.168.47.1:8848#1589188183614#4
+
+
+2020-05-11 17:09:45,614 INFO receive config info: unknown#192.168.47.1:8848#1589188185614#4
+
+
+2020-05-11 17:09:47,620 INFO receive config info: unknown#192.168.47.1:8848#1589188187620#4
+
+
+2020-05-11 17:09:49,626 INFO receive config info: unknown#192.168.47.1:8848#1589188189626#4
+
+
+2020-05-11 17:09:51,633 INFO receive config info: unknown#192.168.47.1:8848#1589188191633#4
+
+
+2020-05-11 17:09:53,635 INFO receive config info: unknown#192.168.47.1:8848#1589188193635#4
+
+
+2020-05-11 17:09:55,634 INFO receive config info: unknown#192.168.47.1:8848#1589188195634#4
+
+
+2020-05-11 17:09:57,645 INFO receive config info: unknown#192.168.47.1:8848#1589188197645#4
+
+
+2020-05-11 17:09:59,647 INFO receive config info: unknown#192.168.47.1:8848#1589188199647#4
+
+
+2020-05-11 17:10:01,649 INFO receive config info: unknown#192.168.47.1:8848#1589188201649#4
+
+
+2020-05-11 17:10:03,651 INFO receive config info: unknown#192.168.47.1:8848#1589188203651#4
+
+
+2020-05-11 17:10:05,665 INFO receive config info: unknown#192.168.47.1:8848#1589188205665#4
+
+
+2020-05-11 17:10:07,666 INFO receive config info: unknown#192.168.47.1:8848#1589188207666#4
+
+
+2020-05-11 17:10:09,668 INFO receive config info: unknown#192.168.47.1:8848#1589188209668#4
+
+
+2020-05-11 17:10:11,676 INFO receive config info: unknown#192.168.47.1:8848#1589188211676#4
+
+
+2020-05-11 17:10:13,691 INFO receive config info: unknown#192.168.47.1:8848#1589188213691#4
+
+
+2020-05-11 17:10:15,692 INFO receive config info: unknown#192.168.47.1:8848#1589188215692#4
+
+
+2020-05-11 17:10:17,693 INFO receive config info: unknown#192.168.47.1:8848#1589188217693#4
+
+
+2020-05-11 17:10:19,695 INFO receive config info: unknown#192.168.47.1:8848#1589188219695#4
+
+
+2020-05-11 17:10:21,707 INFO receive config info: unknown#192.168.47.1:8848#1589188221707#4
+
+
+2020-05-11 17:10:23,716 INFO receive config info: unknown#192.168.47.1:8848#1589188223716#4
+
+
+2020-05-11 17:10:25,724 INFO receive config info: unknown#192.168.47.1:8848#1589188225724#4
+
+
+2020-05-11 17:10:27,739 INFO receive config info: unknown#192.168.47.1:8848#1589188227739#4
+
+
+2020-05-11 17:10:29,745 INFO receive config info: unknown#192.168.47.1:8848#1589188229745#4
+
+
+2020-05-11 17:10:31,752 INFO receive config info: unknown#192.168.47.1:8848#1589188231752#4
+
+
+2020-05-11 17:10:33,757 INFO receive config info: unknown#192.168.47.1:8848#1589188233757#4
+
+
+2020-05-11 17:10:35,758 INFO receive config info: unknown#192.168.47.1:8848#1589188235758#4
+
+
+2020-05-11 17:10:37,758 INFO receive config info: unknown#192.168.47.1:8848#1589188237758#4
+
+
+2020-05-11 17:10:39,770 INFO receive config info: unknown#192.168.47.1:8848#1589188239770#4
+
+
+2020-05-11 17:10:41,774 INFO receive config info: unknown#192.168.47.1:8848#1589188241774#4
+
+
+2020-05-11 17:10:43,781 INFO receive config info: unknown#192.168.47.1:8848#1589188243781#4
+
+
+2020-05-11 17:10:45,788 INFO receive config info: unknown#192.168.47.1:8848#1589188245788#4
+
+
+2020-05-11 17:10:47,796 INFO receive config info: unknown#192.168.47.1:8848#1589188247796#4
+
+
+2020-05-11 17:10:49,804 INFO receive config info: unknown#192.168.47.1:8848#1589188249804#4
+
+
+2020-05-11 17:10:51,808 INFO receive config info: unknown#192.168.47.1:8848#1589188251808#4
+
+
+2020-05-11 17:10:53,817 INFO receive config info: unknown#192.168.47.1:8848#1589188253817#4
+
+
+2020-05-11 17:10:55,816 INFO receive config info: unknown#192.168.47.1:8848#1589188255816#4
+
+
+2020-05-11 17:10:57,823 INFO receive config info: unknown#192.168.47.1:8848#1589188257823#4
+
+
+2020-05-11 17:10:59,829 INFO receive config info: unknown#192.168.47.1:8848#1589188259829#4
+
+
+2020-05-11 17:11:01,844 INFO receive config info: unknown#192.168.47.1:8848#1589188261844#4
+
+
+2020-05-11 17:11:03,845 INFO receive config info: unknown#192.168.47.1:8848#1589188263845#4
+
+
+2020-05-11 17:11:04,956 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@providers:com.learn.dubbo.api.HiService::, value: {"instanceList":[{"app":"unknown","clusterName":"DEFAULT","enabled":true,"ephemeral":true,"healthy":true,"instanceHeartBeatInterval":5000,"instanceHeartBeatTimeOut":15000,"instanceId":"192.168.47.1#20880#DEFAULT#DEFAULT_GROUP@@providers:com.learn.dubbo.api.HiService::","instanceIdGenerator":"","ip":"192.168.47.1","ipDeleteTimeout":30000,"lastBeat":1589188264956,"marked":false,"metadata":{"side":"provider","methods":"Hi","release":"2.7.4.1","deprecated":"false","dubbo":"2.0.2","pid":"5380","interface":"com.learn.dubbo.api.HiService","generic":"false","serialization":"kryo","path":"com.learn.dubbo.api.HiService","protocol":"dubbo","application":"dubbo-provider","dynamic":"true","category":"providers","anyhost":"true","bean.name":"ServiceBean:com.learn.dubbo.api.HiService","timestamp":"1589188263814"},"port":20880,"serviceName":"DEFAULT_GROUP@@providers:com.learn.dubbo.api.HiService::","tenant":"","weight":1.0}]}
+
+2020-05-11 17:11:04,972 WARN protect threshold reached, return all ips, service: DEFAULT_GROUP@@providers:com.learn.dubbo.api.HiService::
+
+2020-05-11 17:11:05,081 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:dubbo-provider, value: {"instanceList":[{"app":"unknown","clusterName":"DEFAULT","enabled":true,"ephemeral":true,"healthy":true,"instanceHeartBeatInterval":5000,"instanceHeartBeatTimeOut":15000,"instanceId":"192.168.47.1#20880#DEFAULT#DEFAULT_GROUP@@providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:dubbo-provider","instanceIdGenerator":"","ip":"192.168.47.1","ipDeleteTimeout":30000,"lastBeat":1589188265081,"marked":false,"metadata":{"side":"provider","methods":"getAllServiceKeys,getServiceRestMetadata,getExportedURLs,getAllExportedURLs","release":"2.7.4.1","deprecated":"false","dubbo":"2.0.2","pid":"5380","interface":"com.alibaba.cloud.dubbo.service.DubboMetadataService","version":"1.0.0","generic":"false","revision":"2.2.0.RELEASE","serialization":"kryo","path":"com.alibaba.cloud.dubbo.service.DubboMetadataService","protocol":"dubbo","application":"dubbo-provider","dynamic":"true","category":"providers","anyhost":"true","group":"dubbo-provider","timestamp":"1589188265066"},"port":20880,"serviceName":"DEFAULT_GROUP@@providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:dubbo-provider","tenant":"","weight":1.0}]}
+
+2020-05-11 17:11:05,081 WARN protect threshold reached, return all ips, service: DEFAULT_GROUP@@providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:dubbo-provider
+
+2020-05-11 17:11:05,097 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@dubbo-provider, value: {"instanceList":[{"app":"unknown","clusterName":"DEFAULT","enabled":true,"ephemeral":true,"healthy":true,"instanceHeartBeatInterval":5000,"instanceHeartBeatTimeOut":15000,"instanceId":"192.168.47.1#20880#DEFAULT#DEFAULT_GROUP@@dubbo-provider","instanceIdGenerator":"","ip":"192.168.47.1","ipDeleteTimeout":30000,"lastBeat":1589188265097,"marked":false,"metadata":{"dubbo.metadata-service.urls":"[ \"dubbo://192.168.47.1:20880/com.alibaba.cloud.dubbo.service.DubboMetadataService?anyhost=true&application=dubbo-provider&bind.ip=192.168.47.1&bind.port=20880&deprecated=false&dubbo=2.0.2&dynamic=true&generic=false&group=dubbo-provider&interface=com.alibaba.cloud.dubbo.service.DubboMetadataService&methods=getAllServiceKeys,getServiceRestMetadata,getExportedURLs,getAllExportedURLs&pid=5380&qos.enable=false&release=2.7.4.1&revision=2.2.0.RELEASE&serialization=kryo&side=provider&timestamp=1589188265066&version=1.0.0\" ]","dubbo.protocols.dubbo.port":"20880","preserved.register.source":"SPRING_CLOUD"},"port":20880,"serviceName":"DEFAULT_GROUP@@dubbo-provider","tenant":"","weight":1.0}]}
+
+2020-05-11 17:11:05,849 INFO receive config info: unknown#192.168.47.1:8848#1589188265849#4
+
+
+2020-05-11 17:11:05,974 WARN protect threshold reached, return all ips, service: DEFAULT_GROUP@@providers:com.learn.dubbo.api.HiService::
+
+2020-05-11 17:11:06,052 WARN protect threshold reached, return all ips, service: DEFAULT_GROUP@@providers:com.learn.dubbo.api.HiService::
+
+2020-05-11 17:11:06,099 WARN protect threshold reached, return all ips, service: DEFAULT_GROUP@@providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:dubbo-provider
+
+2020-05-11 17:11:06,099 WARN protect threshold reached, return all ips, service: DEFAULT_GROUP@@providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:dubbo-provider
+
+2020-05-11 17:11:07,850 INFO receive config info: unknown#192.168.47.1:8848#1589188267850#4
+
+
+2020-05-11 17:11:09,852 INFO receive config info: unknown#192.168.47.1:8848#1589188269852#4
+
+
+2020-05-11 17:11:11,852 INFO receive config info: unknown#192.168.47.1:8848#1589188271852#4
+
+
+2020-05-11 17:11:13,864 INFO receive config info: unknown#192.168.47.1:8848#1589188273864#4
+
+
+2020-05-11 17:11:15,866 INFO receive config info: unknown#192.168.47.1:8848#1589188275866#4
+
+
+2020-05-11 17:11:17,882 INFO receive config info: unknown#192.168.47.1:8848#1589188277882#4
+
+
+2020-05-11 17:11:18,210 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:dubbo-provider, value: {"instanceList":[{"app":"unknown","clusterName":"DEFAULT","enabled":true,"ephemeral":true,"healthy":true,"instanceHeartBeatInterval":5000,"instanceHeartBeatTimeOut":15000,"instanceId":"192.168.47.1#0#DEFAULT#DEFAULT_GROUP@@consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:dubbo-provider","instanceIdGenerator":"","ip":"192.168.47.1","ipDeleteTimeout":30000,"lastBeat":1589188278210,"marked":false,"metadata":{"side":"consumer","lazy":"false","release":"2.7.4.1","dubbo":"2.0.2","pid":"16552","check":"false","interface":"com.alibaba.cloud.dubbo.service.DubboMetadataService","version":"1.0.0","generic":"true","qos.enable":"false","path":"org.apache.dubbo.rpc.service.GenericService","protocol":"consumer","application":"dubbo-consumer","sticky":"false","category":"consumers","group":"dubbo-provider","timestamp":"1589188277538"},"port":0,"serviceName":"DEFAULT_GROUP@@consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:dubbo-provider","tenant":"","weight":1.0}]}
+
+2020-05-11 17:11:18,397 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@consumers:com.learn.dubbo.api.HiService::, value: {"instanceList":[{"app":"unknown","clusterName":"DEFAULT","enabled":true,"ephemeral":true,"healthy":true,"instanceHeartBeatInterval":5000,"instanceHeartBeatTimeOut":15000,"instanceId":"192.168.47.1#0#DEFAULT#DEFAULT_GROUP@@consumers:com.learn.dubbo.api.HiService::","instanceIdGenerator":"","ip":"192.168.47.1","ipDeleteTimeout":30000,"lastBeat":1589188278397,"marked":false,"metadata":{"side":"consumer","lazy":"false","methods":"Hi","release":"2.7.4.1","dubbo":"2.0.2","pid":"16552","check":"false","interface":"com.learn.dubbo.api.HiService","qos.enable":"false","path":"com.learn.dubbo.api.HiService","protocol":"consumer","application":"dubbo-consumer","sticky":"false","category":"consumers","timestamp":"1589188277397"},"port":0,"serviceName":"DEFAULT_GROUP@@consumers:com.learn.dubbo.api.HiService::","tenant":"","weight":1.0}]}
+
+2020-05-11 17:11:19,883 INFO receive config info: unknown#192.168.47.1:8848#1589188279883#4
+
+
+2020-05-11 17:11:20,111 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:dubbo-provider, value: {"instanceList":[]}
+
+2020-05-11 17:11:20,111 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@consumers:com.learn.dubbo.api.HiService::, value: {"instanceList":[]}
+
+2020-05-11 17:11:21,895 INFO receive config info: unknown#192.168.47.1:8848#1589188281895#4
+
+
+2020-05-11 17:11:23,910 INFO receive config info: unknown#192.168.47.1:8848#1589188283910#4
+
+
+2020-05-11 17:11:25,911 INFO receive config info: unknown#192.168.47.1:8848#1589188285911#4
+
+
+2020-05-11 17:11:27,912 INFO receive config info: unknown#192.168.47.1:8848#1589188287912#4
+
+
+2020-05-11 17:11:29,913 INFO receive config info: unknown#192.168.47.1:8848#1589188289913#4
+
+
+2020-05-11 17:11:31,914 INFO receive config info: unknown#192.168.47.1:8848#1589188291914#4
+
+
+2020-05-11 17:11:33,916 INFO receive config info: unknown#192.168.47.1:8848#1589188293916#4
+
+
+2020-05-11 17:11:35,918 INFO receive config info: unknown#192.168.47.1:8848#1589188295918#4
+
+
+2020-05-11 17:11:37,919 INFO receive config info: unknown#192.168.47.1:8848#1589188297919#4
+
+
+2020-05-11 17:11:39,920 INFO receive config info: unknown#192.168.47.1:8848#1589188299920#4
+
+
+2020-05-11 17:11:41,921 INFO receive config info: unknown#192.168.47.1:8848#1589188301921#4
+
+
+2020-05-11 17:11:43,923 INFO receive config info: unknown#192.168.47.1:8848#1589188303923#4
+
+
+2020-05-11 17:11:45,924 INFO receive config info: unknown#192.168.47.1:8848#1589188305924#4
+
+
+2020-05-11 17:11:47,926 INFO receive config info: unknown#192.168.47.1:8848#1589188307926#4
+
+
+2020-05-11 17:11:49,927 INFO receive config info: unknown#192.168.47.1:8848#1589188309927#4
+
+
+2020-05-11 17:11:51,928 INFO receive config info: unknown#192.168.47.1:8848#1589188311928#4
+
+
+2020-05-11 17:11:53,930 INFO receive config info: unknown#192.168.47.1:8848#1589188313930#4
+
+
+2020-05-11 17:11:55,930 INFO receive config info: unknown#192.168.47.1:8848#1589188315930#4
+
+
+2020-05-11 17:11:57,932 INFO receive config info: unknown#192.168.47.1:8848#1589188317932#4
+
+
+2020-05-11 17:11:59,935 INFO receive config info: unknown#192.168.47.1:8848#1589188319935#4
+
+
+2020-05-11 17:12:01,936 INFO receive config info: unknown#192.168.47.1:8848#1589188321936#4
+
+
+2020-05-11 17:12:03,937 INFO receive config info: unknown#192.168.47.1:8848#1589188323937#4
+
+
+2020-05-11 17:12:05,938 INFO receive config info: unknown#192.168.47.1:8848#1589188325938#4
+
+
+2020-05-11 17:12:07,940 INFO receive config info: unknown#192.168.47.1:8848#1589188327940#4
+
+
+2020-05-11 17:12:09,940 INFO receive config info: unknown#192.168.47.1:8848#1589188329940#4
+
+
+2020-05-11 17:12:11,941 INFO receive config info: unknown#192.168.47.1:8848#1589188331941#4
+
+
+2020-05-11 17:12:13,942 INFO receive config info: unknown#192.168.47.1:8848#1589188333942#4
+
+
+2020-05-11 17:12:15,943 INFO receive config info: unknown#192.168.47.1:8848#1589188335943#4
+
+
+2020-05-11 17:12:17,944 INFO receive config info: unknown#192.168.47.1:8848#1589188337944#4
+
+
+2020-05-11 17:12:19,946 INFO receive config info: unknown#192.168.47.1:8848#1589188339946#4
+
+
+2020-05-11 17:12:21,947 INFO receive config info: unknown#192.168.47.1:8848#1589188341947#4
+
+
+2020-05-11 17:12:23,948 INFO receive config info: unknown#192.168.47.1:8848#1589188343948#4
+
+
+2020-05-11 17:12:25,948 INFO receive config info: unknown#192.168.47.1:8848#1589188345948#4
+
+
+2020-05-11 17:12:27,950 INFO receive config info: unknown#192.168.47.1:8848#1589188347950#4
+
+
+2020-05-11 17:12:29,951 INFO receive config info: unknown#192.168.47.1:8848#1589188349951#4
+
+
+2020-05-11 17:12:31,952 INFO receive config info: unknown#192.168.47.1:8848#1589188351952#4
+
+
+2020-05-11 17:12:33,954 INFO receive config info: unknown#192.168.47.1:8848#1589188353954#4
+
+
+2020-05-11 17:12:35,955 INFO receive config info: unknown#192.168.47.1:8848#1589188355955#4
+
+
+2020-05-11 17:12:37,956 INFO receive config info: unknown#192.168.47.1:8848#1589188357956#4
+
+
+2020-05-11 17:12:39,958 INFO receive config info: unknown#192.168.47.1:8848#1589188359958#4
+
+
+2020-05-11 17:12:41,959 INFO receive config info: unknown#192.168.47.1:8848#1589188361959#4
+
+
+2020-05-11 17:12:43,964 INFO receive config info: unknown#192.168.47.1:8848#1589188363964#4
+
+
+2020-05-11 17:12:45,965 INFO receive config info: unknown#192.168.47.1:8848#1589188365965#4
+
+
+2020-05-11 17:12:47,968 INFO receive config info: unknown#192.168.47.1:8848#1589188367968#4
+
+
+2020-05-11 17:12:49,970 INFO receive config info: unknown#192.168.47.1:8848#1589188369970#4
+
+
+2020-05-11 17:12:51,831 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:dubbo-provider, value: {"instanceList":[{"app":"unknown","clusterName":"DEFAULT","enabled":true,"ephemeral":true,"healthy":true,"instanceHeartBeatInterval":5000,"instanceHeartBeatTimeOut":15000,"instanceId":"192.168.47.1#0#DEFAULT#DEFAULT_GROUP@@consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:dubbo-provider","instanceIdGenerator":"","ip":"192.168.47.1","ipDeleteTimeout":30000,"lastBeat":1589188371831,"marked":false,"metadata":{"side":"consumer","lazy":"false","release":"2.7.4.1","dubbo":"2.0.2","pid":"14244","check":"false","interface":"com.alibaba.cloud.dubbo.service.DubboMetadataService","version":"1.0.0","generic":"true","qos.enable":"false","path":"org.apache.dubbo.rpc.service.GenericService","protocol":"consumer","application":"dubbo-consumer","sticky":"false","category":"consumers","group":"dubbo-provider","timestamp":"1589188371118"},"port":0,"serviceName":"DEFAULT_GROUP@@consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:dubbo-provider","tenant":"","weight":1.0}]}
+
+2020-05-11 17:12:51,966 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@consumers:com.learn.dubbo.api.HiService::, value: {"instanceList":[{"app":"unknown","clusterName":"DEFAULT","enabled":true,"ephemeral":true,"healthy":true,"instanceHeartBeatInterval":5000,"instanceHeartBeatTimeOut":15000,"instanceId":"192.168.47.1#0#DEFAULT#DEFAULT_GROUP@@consumers:com.learn.dubbo.api.HiService::","instanceIdGenerator":"","ip":"192.168.47.1","ipDeleteTimeout":30000,"lastBeat":1589188371966,"marked":false,"metadata":{"side":"consumer","lazy":"false","methods":"Hi","release":"2.7.4.1","dubbo":"2.0.2","pid":"14244","check":"false","interface":"com.learn.dubbo.api.HiService","qos.enable":"false","path":"com.learn.dubbo.api.HiService","protocol":"consumer","application":"dubbo-consumer","sticky":"false","category":"consumers","timestamp":"1589188370957"},"port":0,"serviceName":"DEFAULT_GROUP@@consumers:com.learn.dubbo.api.HiService::","tenant":"","weight":1.0}]}
+
+2020-05-11 17:12:51,971 INFO receive config info: unknown#192.168.47.1:8848#1589188371971#4
+
+
+2020-05-11 17:12:53,611 INFO creating empty service public:DEFAULT_GROUP@@providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:dubbo-consumer
+
+2020-05-11 17:12:53,611 INFO [NEW-SERVICE] {"appName":"","checksum":"f90cb7abef629ea4b910d93b0c7519cc","clusterMap":{},"empty":true,"enabled":true,"finalizeCount":0,"groupName":"DEFAULT_GROUP","ipDeleteTimeout":30000,"lastModifiedMillis":1589188373611,"metadata":{},"name":"DEFAULT_GROUP@@providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:dubbo-consumer","namespaceId":"public","owners":[],"protectThreshold":0.0,"resetWeight":false,"selector":{"type":"none"},"token":""}
+
+2020-05-11 17:12:53,611 WARN cluster: DEFAULT not found, ip: {"app":"unknown","clusterName":"DEFAULT","enabled":true,"ephemeral":true,"healthy":true,"instanceHeartBeatInterval":5000,"instanceHeartBeatTimeOut":15000,"instanceId":"192.168.47.1#20881#DEFAULT#DEFAULT_GROUP@@providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:dubbo-consumer","instanceIdGenerator":"","ip":"192.168.47.1","ipDeleteTimeout":30000,"lastBeat":1589188373610,"marked":false,"metadata":{"side":"provider","methods":"getAllServiceKeys,getServiceRestMetadata,getExportedURLs,getAllExportedURLs","release":"2.7.4.1","deprecated":"false","dubbo":"2.0.2","pid":"14244","interface":"com.alibaba.cloud.dubbo.service.DubboMetadataService","version":"1.0.0","generic":"false","revision":"2.2.0.RELEASE","serialization":"kryo","path":"com.alibaba.cloud.dubbo.service.DubboMetadataService","protocol":"dubbo","application":"dubbo-consumer","dynamic":"true","category":"providers","anyhost":"true","group":"dubbo-consumer","timestamp":"1589188373573"},"port":20881,"serviceName":"DEFAULT_GROUP@@providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:dubbo-consumer","tenant":"","weight":1.0}, will create new cluster with default configuration.
+
+2020-05-11 17:12:53,611 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:dubbo-consumer, value: {"instanceList":[{"app":"unknown","clusterName":"DEFAULT","enabled":true,"ephemeral":true,"healthy":true,"instanceHeartBeatInterval":5000,"instanceHeartBeatTimeOut":15000,"instanceId":"192.168.47.1#20881#DEFAULT#DEFAULT_GROUP@@providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:dubbo-consumer","instanceIdGenerator":"","ip":"192.168.47.1","ipDeleteTimeout":30000,"lastBeat":1589188373610,"marked":false,"metadata":{"side":"provider","methods":"getAllServiceKeys,getServiceRestMetadata,getExportedURLs,getAllExportedURLs","release":"2.7.4.1","deprecated":"false","dubbo":"2.0.2","pid":"14244","interface":"com.alibaba.cloud.dubbo.service.DubboMetadataService","version":"1.0.0","generic":"false","revision":"2.2.0.RELEASE","serialization":"kryo","path":"com.alibaba.cloud.dubbo.service.DubboMetadataService","protocol":"dubbo","application":"dubbo-consumer","dynamic":"true","category":"providers","anyhost":"true","group":"dubbo-consumer","timestamp":"1589188373573"},"port":20881,"serviceName":"DEFAULT_GROUP@@providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:dubbo-consumer","tenant":"","weight":1.0}]}
+
+2020-05-11 17:12:53,629 INFO creating empty service public:DEFAULT_GROUP@@dubbo-consumer
+
+2020-05-11 17:12:53,630 INFO [NEW-SERVICE] {"appName":"","checksum":"d4f723d3f40c4cd179b90d137c087d0c","clusterMap":{},"empty":true,"enabled":true,"finalizeCount":0,"groupName":"DEFAULT_GROUP","ipDeleteTimeout":30000,"lastModifiedMillis":1589188373629,"metadata":{},"name":"DEFAULT_GROUP@@dubbo-consumer","namespaceId":"public","owners":[],"protectThreshold":0.0,"resetWeight":false,"selector":{"type":"none"},"token":""}
+
+2020-05-11 17:12:53,630 WARN cluster: DEFAULT not found, ip: {"app":"unknown","clusterName":"DEFAULT","enabled":true,"ephemeral":true,"healthy":true,"instanceHeartBeatInterval":5000,"instanceHeartBeatTimeOut":15000,"instanceId":"192.168.47.1#9084#DEFAULT#DEFAULT_GROUP@@dubbo-consumer","instanceIdGenerator":"","ip":"192.168.47.1","ipDeleteTimeout":30000,"lastBeat":1589188373629,"marked":false,"metadata":{"dubbo.metadata-service.urls":"[ \"dubbo://192.168.47.1:20881/com.alibaba.cloud.dubbo.service.DubboMetadataService?anyhost=true&application=dubbo-consumer&bind.ip=192.168.47.1&bind.port=20881&deprecated=false&dubbo=2.0.2&dynamic=true&generic=false&group=dubbo-consumer&interface=com.alibaba.cloud.dubbo.service.DubboMetadataService&methods=getAllServiceKeys,getServiceRestMetadata,getExportedURLs,getAllExportedURLs&pid=14244&qos.enable=false&release=2.7.4.1&revision=2.2.0.RELEASE&serialization=kryo&side=provider&timestamp=1589188373573&version=1.0.0\" ]","preserved.register.source":"SPRING_CLOUD"},"port":9084,"serviceName":"DEFAULT_GROUP@@dubbo-consumer","tenant":"","weight":1.0}, will create new cluster with default configuration.
+
+2020-05-11 17:12:53,630 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@dubbo-consumer, value: {"instanceList":[{"app":"unknown","clusterName":"DEFAULT","enabled":true,"ephemeral":true,"healthy":true,"instanceHeartBeatInterval":5000,"instanceHeartBeatTimeOut":15000,"instanceId":"192.168.47.1#9084#DEFAULT#DEFAULT_GROUP@@dubbo-consumer","instanceIdGenerator":"","ip":"192.168.47.1","ipDeleteTimeout":30000,"lastBeat":1589188373629,"marked":false,"metadata":{"dubbo.metadata-service.urls":"[ \"dubbo://192.168.47.1:20881/com.alibaba.cloud.dubbo.service.DubboMetadataService?anyhost=true&application=dubbo-consumer&bind.ip=192.168.47.1&bind.port=20881&deprecated=false&dubbo=2.0.2&dynamic=true&generic=false&group=dubbo-consumer&interface=com.alibaba.cloud.dubbo.service.DubboMetadataService&methods=getAllServiceKeys,getServiceRestMetadata,getExportedURLs,getAllExportedURLs&pid=14244&qos.enable=false&release=2.7.4.1&revision=2.2.0.RELEASE&serialization=kryo&side=provider&timestamp=1589188373573&version=1.0.0\" ]","preserved.register.source":"SPRING_CLOUD"},"port":9084,"serviceName":"DEFAULT_GROUP@@dubbo-consumer","tenant":"","weight":1.0}]}
+
+2020-05-11 17:12:53,973 INFO receive config info: unknown#192.168.47.1:8848#1589188373973#4
+
+
+2020-05-11 17:12:55,973 INFO receive config info: unknown#192.168.47.1:8848#1589188375973#4
+
+
+2020-05-11 17:12:57,974 INFO receive config info: unknown#192.168.47.1:8848#1589188377974#4
+
+
+2020-05-11 17:12:59,975 INFO receive config info: unknown#192.168.47.1:8848#1589188379975#4
+
+
+2020-05-11 17:13:01,977 INFO receive config info: unknown#192.168.47.1:8848#1589188381977#4
+
+
+2020-05-11 17:13:03,996 INFO receive config info: unknown#192.168.47.1:8848#1589188383996#4
+
+
+2020-05-11 17:13:06,009 INFO receive config info: unknown#192.168.47.1:8848#1589188386009#4
+
+
+2020-05-11 17:13:08,022 INFO receive config info: unknown#192.168.47.1:8848#1589188388022#4
+
+
+2020-05-11 17:13:10,023 INFO receive config info: unknown#192.168.47.1:8848#1589188390023#4
+
+
+2020-05-11 17:13:12,036 INFO receive config info: unknown#192.168.47.1:8848#1589188392036#4
+
+
+2020-05-11 17:13:14,048 INFO receive config info: unknown#192.168.47.1:8848#1589188394048#4
+
+
+2020-05-11 17:13:16,052 INFO receive config info: unknown#192.168.47.1:8848#1589188396052#4
+
+
+2020-05-11 17:13:18,058 INFO receive config info: unknown#192.168.47.1:8848#1589188398058#4
+
+
+2020-05-11 17:13:20,064 INFO receive config info: unknown#192.168.47.1:8848#1589188400064#4
+
+
+2020-05-11 17:13:22,069 INFO receive config info: unknown#192.168.47.1:8848#1589188402069#4
+
+
+2020-05-11 17:13:24,082 INFO receive config info: unknown#192.168.47.1:8848#1589188404082#4
+
+
+2020-05-11 17:13:26,092 INFO receive config info: unknown#192.168.47.1:8848#1589188406092#4
+
+
+2020-05-11 17:13:28,098 INFO receive config info: unknown#192.168.47.1:8848#1589188408098#4
+
+
+2020-05-11 17:13:30,101 INFO receive config info: unknown#192.168.47.1:8848#1589188410101#4
+
+
+2020-05-11 17:13:32,104 INFO receive config info: unknown#192.168.47.1:8848#1589188412104#4
+
+
+2020-05-11 17:13:34,106 INFO receive config info: unknown#192.168.47.1:8848#1589188414106#4
+
+
+2020-05-11 17:13:36,108 INFO receive config info: unknown#192.168.47.1:8848#1589188416108#4
+
+
+2020-05-11 17:13:38,108 INFO receive config info: unknown#192.168.47.1:8848#1589188418108#4
+
+
+2020-05-11 17:13:40,111 INFO receive config info: unknown#192.168.47.1:8848#1589188420111#4
+
+
+2020-05-11 17:13:42,111 INFO receive config info: unknown#192.168.47.1:8848#1589188422111#4
+
+
+2020-05-11 17:13:44,112 INFO receive config info: unknown#192.168.47.1:8848#1589188424112#4
+
+
+2020-05-11 17:13:46,113 INFO receive config info: unknown#192.168.47.1:8848#1589188426113#4
+
+
+2020-05-11 17:13:48,114 INFO receive config info: unknown#192.168.47.1:8848#1589188428114#4
+
+
+2020-05-11 17:13:50,116 INFO receive config info: unknown#192.168.47.1:8848#1589188430116#4
+
+
+2020-05-11 17:13:52,118 INFO receive config info: unknown#192.168.47.1:8848#1589188432118#4
+
+
+2020-05-11 17:13:54,119 INFO receive config info: unknown#192.168.47.1:8848#1589188434119#4
+
+
+2020-05-11 17:13:56,119 INFO receive config info: unknown#192.168.47.1:8848#1589188436119#4
+
+
+2020-05-11 17:13:58,121 INFO receive config info: unknown#192.168.47.1:8848#1589188438121#4
+
+
+2020-05-11 17:14:00,124 INFO receive config info: unknown#192.168.47.1:8848#1589188440124#4
+
+
+2020-05-11 17:14:02,125 INFO receive config info: unknown#192.168.47.1:8848#1589188442125#4
+
+
+2020-05-11 17:14:04,125 INFO receive config info: unknown#192.168.47.1:8848#1589188444125#4
+
+
+2020-05-11 17:14:06,127 INFO receive config info: unknown#192.168.47.1:8848#1589188446127#4
+
+
+2020-05-11 17:14:08,128 INFO receive config info: unknown#192.168.47.1:8848#1589188448128#4
+
+
+2020-05-11 17:14:10,129 INFO receive config info: unknown#192.168.47.1:8848#1589188450129#4
+
+
+2020-05-11 17:14:12,130 INFO receive config info: unknown#192.168.47.1:8848#1589188452130#4
+
+
+2020-05-11 17:14:14,130 INFO receive config info: unknown#192.168.47.1:8848#1589188454130#4
+
+
+2020-05-11 17:14:16,132 INFO receive config info: unknown#192.168.47.1:8848#1589188456132#4
+
+
+2020-05-11 17:14:18,133 INFO receive config info: unknown#192.168.47.1:8848#1589188458133#4
+
+
+2020-05-11 17:14:20,134 INFO receive config info: unknown#192.168.47.1:8848#1589188460134#4
+
+
+2020-05-11 17:14:22,135 INFO receive config info: unknown#192.168.47.1:8848#1589188462135#4
+
+
+2020-05-11 17:14:24,137 INFO receive config info: unknown#192.168.47.1:8848#1589188464137#4
+
+
+2020-05-11 17:14:26,138 INFO receive config info: unknown#192.168.47.1:8848#1589188466138#4
+
+
+2020-05-11 17:14:28,139 INFO receive config info: unknown#192.168.47.1:8848#1589188468139#4
+
+
+2020-05-11 17:14:30,140 INFO receive config info: unknown#192.168.47.1:8848#1589188470140#4
+
+
+2020-05-11 17:14:32,142 INFO receive config info: unknown#192.168.47.1:8848#1589188472142#4
+
+
+2020-05-11 17:14:34,143 INFO receive config info: unknown#192.168.47.1:8848#1589188474143#4
+
+
+2020-05-11 17:14:36,144 INFO receive config info: unknown#192.168.47.1:8848#1589188476144#4
+
+
+2020-05-11 17:14:38,146 INFO receive config info: unknown#192.168.47.1:8848#1589188478146#4
+
+
+2020-05-11 17:14:40,148 INFO receive config info: unknown#192.168.47.1:8848#1589188480148#4
+
+
+2020-05-11 17:14:42,150 INFO receive config info: unknown#192.168.47.1:8848#1589188482150#4
+
+
+2020-05-11 17:14:44,152 INFO receive config info: unknown#192.168.47.1:8848#1589188484152#4
+
+
+2020-05-11 17:14:46,153 INFO receive config info: unknown#192.168.47.1:8848#1589188486153#4
+
+
+2020-05-11 17:14:48,154 INFO receive config info: unknown#192.168.47.1:8848#1589188488154#4
+
+
+2020-05-11 17:14:50,155 INFO receive config info: unknown#192.168.47.1:8848#1589188490155#4
+
+
+2020-05-11 17:14:52,156 INFO receive config info: unknown#192.168.47.1:8848#1589188492156#4
+
+
+2020-05-11 17:14:54,157 INFO receive config info: unknown#192.168.47.1:8848#1589188494157#4
+
+
+2020-05-11 17:14:56,157 INFO receive config info: unknown#192.168.47.1:8848#1589188496157#4
+
+
+2020-05-11 17:14:58,158 INFO receive config info: unknown#192.168.47.1:8848#1589188498158#4
+
+
+2020-05-11 17:15:00,159 INFO receive config info: unknown#192.168.47.1:8848#1589188500159#4
+
+
+2020-05-11 17:15:02,160 INFO receive config info: unknown#192.168.47.1:8848#1589188502160#4
+
+
+2020-05-11 17:15:04,161 INFO receive config info: unknown#192.168.47.1:8848#1589188504161#4
+
+
+2020-05-11 17:15:06,163 INFO receive config info: unknown#192.168.47.1:8848#1589188506163#4
+
+
+2020-05-11 17:15:08,166 INFO receive config info: unknown#192.168.47.1:8848#1589188508166#4
+
+
+2020-05-11 17:15:10,167 INFO receive config info: unknown#192.168.47.1:8848#1589188510167#4
+
+
+2020-05-11 17:15:12,168 INFO receive config info: unknown#192.168.47.1:8848#1589188512168#4
+
+
+2020-05-11 17:15:14,169 INFO receive config info: unknown#192.168.47.1:8848#1589188514169#4
+
+
+2020-05-11 17:15:16,170 INFO receive config info: unknown#192.168.47.1:8848#1589188516170#4
+
+
+2020-05-11 17:15:18,171 INFO receive config info: unknown#192.168.47.1:8848#1589188518171#4
+
+
+2020-05-11 17:15:20,173 INFO receive config info: unknown#192.168.47.1:8848#1589188520173#4
+
+
+2020-05-11 17:15:22,173 INFO receive config info: unknown#192.168.47.1:8848#1589188522173#4
+
+
+2020-05-11 17:15:24,174 INFO receive config info: unknown#192.168.47.1:8848#1589188524174#4
+
+
+2020-05-11 17:15:26,175 INFO receive config info: unknown#192.168.47.1:8848#1589188526175#4
+
+
+2020-05-11 17:15:28,177 INFO receive config info: unknown#192.168.47.1:8848#1589188528177#4
+
+
+2020-05-11 17:15:30,178 INFO receive config info: unknown#192.168.47.1:8848#1589188530178#4
+
+
+2020-05-11 17:15:32,179 INFO receive config info: unknown#192.168.47.1:8848#1589188532179#4
+
+
+2020-05-11 17:15:34,181 INFO receive config info: unknown#192.168.47.1:8848#1589188534181#4
+
+
+2020-05-11 17:15:36,183 INFO receive config info: unknown#192.168.47.1:8848#1589188536183#4
+
+
+2020-05-11 17:15:38,184 INFO receive config info: unknown#192.168.47.1:8848#1589188538184#4
+
+
+2020-05-11 17:15:40,185 INFO receive config info: unknown#192.168.47.1:8848#1589188540185#4
+
+
+2020-05-11 17:15:42,186 INFO receive config info: unknown#192.168.47.1:8848#1589188542186#4
+
+
+2020-05-11 17:15:44,186 INFO receive config info: unknown#192.168.47.1:8848#1589188544186#4
+
+
+2020-05-11 17:15:46,187 INFO receive config info: unknown#192.168.47.1:8848#1589188546187#4
+
+
+2020-05-11 17:15:48,189 INFO receive config info: unknown#192.168.47.1:8848#1589188548189#4
+
+
+2020-05-11 17:15:50,189 INFO receive config info: unknown#192.168.47.1:8848#1589188550189#4
+
+
+2020-05-11 17:15:52,191 INFO receive config info: unknown#192.168.47.1:8848#1589188552191#4
+
+
+2020-05-11 17:15:54,192 INFO receive config info: unknown#192.168.47.1:8848#1589188554192#4
+
+
+2020-05-11 17:15:56,192 INFO receive config info: unknown#192.168.47.1:8848#1589188556192#4
+
+
+2020-05-11 17:15:58,193 INFO receive config info: unknown#192.168.47.1:8848#1589188558193#4
+
+
+2020-05-11 17:16:00,194 INFO receive config info: unknown#192.168.47.1:8848#1589188560194#4
+
+
+2020-05-11 17:16:02,196 INFO receive config info: unknown#192.168.47.1:8848#1589188562196#4
+
+
+2020-05-11 17:16:04,198 INFO receive config info: unknown#192.168.47.1:8848#1589188564198#4
+
+
+2020-05-11 17:16:06,200 INFO receive config info: unknown#192.168.47.1:8848#1589188566200#4
+
+
+2020-05-11 17:16:08,201 INFO receive config info: unknown#192.168.47.1:8848#1589188568201#4
+
+
+2020-05-11 17:16:10,203 INFO receive config info: unknown#192.168.47.1:8848#1589188570203#4
+
+
+2020-05-11 17:16:12,204 INFO receive config info: unknown#192.168.47.1:8848#1589188572204#4
+
+
+2020-05-11 17:16:14,210 INFO receive config info: unknown#192.168.47.1:8848#1589188574210#4
+
+
+2020-05-11 17:16:16,211 INFO receive config info: unknown#192.168.47.1:8848#1589188576211#4
+
+
+2020-05-11 17:16:18,213 INFO receive config info: unknown#192.168.47.1:8848#1589188578213#4
+
+
+2020-05-11 17:16:20,215 INFO receive config info: unknown#192.168.47.1:8848#1589188580215#4
+
+
+2020-05-11 17:16:22,216 INFO receive config info: unknown#192.168.47.1:8848#1589188582216#4
+
+
+2020-05-11 17:16:24,222 INFO receive config info: unknown#192.168.47.1:8848#1589188584222#4
+
+
+2020-05-11 17:16:25,656 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:dubbo-provider, value: {"instanceList":[{"app":"unknown","clusterName":"DEFAULT","enabled":true,"ephemeral":true,"healthy":true,"instanceHeartBeatInterval":5000,"instanceHeartBeatTimeOut":15000,"instanceId":"192.168.47.1#0#DEFAULT#DEFAULT_GROUP@@consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:dubbo-provider","instanceIdGenerator":"","ip":"192.168.47.1","ipDeleteTimeout":30000,"lastBeat":1589188585656,"marked":false,"metadata":{"side":"consumer","lazy":"false","release":"2.7.4.1","dubbo":"2.0.2","pid":"3592","check":"false","interface":"com.alibaba.cloud.dubbo.service.DubboMetadataService","version":"1.0.0","generic":"true","qos.enable":"false","path":"org.apache.dubbo.rpc.service.GenericService","protocol":"consumer","application":"dubbo-consumer","sticky":"false","category":"consumers","group":"dubbo-provider","timestamp":"1589188584900"},"port":0,"serviceName":"DEFAULT_GROUP@@consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:dubbo-provider","tenant":"","weight":1.0}]}
+
+2020-05-11 17:16:25,748 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@consumers:com.learn.dubbo.api.HiService::, value: {"instanceList":[{"app":"unknown","clusterName":"DEFAULT","enabled":true,"ephemeral":true,"healthy":true,"instanceHeartBeatInterval":5000,"instanceHeartBeatTimeOut":15000,"instanceId":"192.168.47.1#0#DEFAULT#DEFAULT_GROUP@@consumers:com.learn.dubbo.api.HiService::","instanceIdGenerator":"","ip":"192.168.47.1","ipDeleteTimeout":30000,"lastBeat":1589188585748,"marked":false,"metadata":{"side":"consumer","lazy":"false","methods":"Hi","release":"2.7.4.1","dubbo":"2.0.2","pid":"3592","check":"false","interface":"com.learn.dubbo.api.HiService","qos.enable":"false","path":"com.learn.dubbo.api.HiService","protocol":"consumer","application":"dubbo-consumer","sticky":"false","category":"consumers","timestamp":"1589188584711"},"port":0,"serviceName":"DEFAULT_GROUP@@consumers:com.learn.dubbo.api.HiService::","tenant":"","weight":1.0}]}
+
+2020-05-11 17:16:26,223 INFO receive config info: unknown#192.168.47.1:8848#1589188586223#4
+
+
+2020-05-11 17:16:27,522 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:dubbo-consumer, value: {"instanceList":[{"app":"unknown","clusterName":"DEFAULT","enabled":true,"ephemeral":true,"healthy":true,"instanceHeartBeatInterval":5000,"instanceHeartBeatTimeOut":15000,"instanceId":"192.168.47.1#20881#DEFAULT#DEFAULT_GROUP@@providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:dubbo-consumer","instanceIdGenerator":"","ip":"192.168.47.1","ipDeleteTimeout":30000,"lastBeat":1589188587521,"marked":false,"metadata":{"side":"provider","methods":"getAllServiceKeys,getServiceRestMetadata,getExportedURLs,getAllExportedURLs","release":"2.7.4.1","deprecated":"false","dubbo":"2.0.2","pid":"3592","interface":"com.alibaba.cloud.dubbo.service.DubboMetadataService","version":"1.0.0","generic":"false","revision":"2.2.0.RELEASE","path":"com.alibaba.cloud.dubbo.service.DubboMetadataService","protocol":"dubbo","application":"dubbo-consumer","dynamic":"true","category":"providers","anyhost":"true","group":"dubbo-consumer","timestamp":"1589188587479"},"port":20881,"serviceName":"DEFAULT_GROUP@@providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:dubbo-consumer","tenant":"","weight":1.0}]}
+
+2020-05-11 17:16:27,542 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@dubbo-consumer, value: {"instanceList":[{"app":"unknown","clusterName":"DEFAULT","enabled":true,"ephemeral":true,"healthy":true,"instanceHeartBeatInterval":5000,"instanceHeartBeatTimeOut":15000,"instanceId":"192.168.47.1#9084#DEFAULT#DEFAULT_GROUP@@dubbo-consumer","instanceIdGenerator":"","ip":"192.168.47.1","ipDeleteTimeout":30000,"lastBeat":1589188587542,"marked":false,"metadata":{"dubbo.metadata-service.urls":"[ \"dubbo://192.168.47.1:20881/com.alibaba.cloud.dubbo.service.DubboMetadataService?anyhost=true&application=dubbo-consumer&bind.ip=192.168.47.1&bind.port=20881&deprecated=false&dubbo=2.0.2&dynamic=true&generic=false&group=dubbo-consumer&interface=com.alibaba.cloud.dubbo.service.DubboMetadataService&methods=getAllServiceKeys,getServiceRestMetadata,getExportedURLs,getAllExportedURLs&pid=3592&qos.enable=false&release=2.7.4.1&revision=2.2.0.RELEASE&side=provider&timestamp=1589188587479&version=1.0.0\" ]","preserved.register.source":"SPRING_CLOUD"},"port":9084,"serviceName":"DEFAULT_GROUP@@dubbo-consumer","tenant":"","weight":1.0}]}
+
+2020-05-11 17:16:28,225 INFO receive config info: unknown#192.168.47.1:8848#1589188588225#4
+
+
+2020-05-11 17:16:30,226 INFO receive config info: unknown#192.168.47.1:8848#1589188590226#4
+
+
+2020-05-11 17:16:32,226 INFO receive config info: unknown#192.168.47.1:8848#1589188592226#4
+
+
+2020-05-11 17:16:34,228 INFO receive config info: unknown#192.168.47.1:8848#1589188594228#4
+
+
+2020-05-11 17:16:36,230 INFO receive config info: unknown#192.168.47.1:8848#1589188596230#4
+
+
+2020-05-11 17:16:38,231 INFO receive config info: unknown#192.168.47.1:8848#1589188598231#4
+
+
+2020-05-11 17:16:40,232 INFO receive config info: unknown#192.168.47.1:8848#1589188600232#4
+
+
+2020-05-11 17:16:42,234 INFO receive config info: unknown#192.168.47.1:8848#1589188602234#4
+
+
+2020-05-11 17:16:44,235 INFO receive config info: unknown#192.168.47.1:8848#1589188604235#4
+
+
+2020-05-11 17:16:46,235 INFO receive config info: unknown#192.168.47.1:8848#1589188606235#4
+
+
+2020-05-11 17:16:48,236 INFO receive config info: unknown#192.168.47.1:8848#1589188608236#4
+
+
+2020-05-11 17:16:50,237 INFO receive config info: unknown#192.168.47.1:8848#1589188610237#4
+
+
+2020-05-11 17:16:52,238 INFO receive config info: unknown#192.168.47.1:8848#1589188612238#4
+
+
+2020-05-11 17:16:54,239 INFO receive config info: unknown#192.168.47.1:8848#1589188614239#4
+
+
+2020-05-11 17:16:56,240 INFO receive config info: unknown#192.168.47.1:8848#1589188616240#4
+
+
+2020-05-11 17:16:58,241 INFO receive config info: unknown#192.168.47.1:8848#1589188618241#4
+
+
+2020-05-11 17:17:00,242 INFO receive config info: unknown#192.168.47.1:8848#1589188620242#4
+
+
+2020-05-11 17:17:02,243 INFO receive config info: unknown#192.168.47.1:8848#1589188622243#4
+
+
+2020-05-11 17:17:04,245 INFO receive config info: unknown#192.168.47.1:8848#1589188624245#4
+
+
+2020-05-11 17:17:06,245 INFO receive config info: unknown#192.168.47.1:8848#1589188626245#4
+
+
+2020-05-11 17:17:08,247 INFO receive config info: unknown#192.168.47.1:8848#1589188628247#4
+
+

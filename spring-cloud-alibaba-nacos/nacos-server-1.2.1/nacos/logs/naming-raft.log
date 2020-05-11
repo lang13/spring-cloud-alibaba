@@ -68,3 +68,55 @@
 
 2020-05-11 16:54:43,867 INFO raft peers changed: [{"adWeight":0,"alive":false,"ip":"192.168.47.1","key":"192.168.47.1:8848","lastRefTime":0,"lastRefTimeStr":"","servePort":8848,"site":"unknown","weight":1}]
 
+2020-05-11 16:56:24,970 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@providers:com.learn.dubbo.api.HiService::
+
+2020-05-11 16:56:25,126 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:dubbo-provider
+
+2020-05-11 16:56:25,173 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@dubbo-provider
+
+2020-05-11 16:56:43,181 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:dubbo-provider
+
+2020-05-11 16:56:43,447 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@consumers:com.learn.dubbo.api.HiService::
+
+2020-05-11 17:02:38,504 INFO initializing Raft sub-system
+
+2020-05-11 17:02:38,504 INFO raft notifier started
+
+2020-05-11 17:02:38,504 INFO finish loading all datums, size: 0 cost 0 ms.
+
+2020-05-11 17:02:38,504 INFO cache loaded, datum count: 0, current term: 1
+
+2020-05-11 17:02:38,504 INFO finish to load data from disk, cost: 0 ms.
+
+2020-05-11 17:02:38,504 INFO timer started: leader timeout ms: 15000, heart-beat timeout ms: 5000
+
+2020-05-11 17:02:38,426 INFO server list is updated, new: 1 servers: [{"adWeight":0,"alive":false,"ip":"192.168.47.1","key":"192.168.47.1:0","lastRefTime":0,"servePort":0,"site":"unknown","weight":1}]
+
+2020-05-11 17:02:38,519 INFO raft peers changed: [{"adWeight":0,"alive":false,"ip":"192.168.47.1","key":"192.168.47.1:0","lastRefTime":0,"lastRefTimeStr":"","servePort":0,"site":"unknown","weight":1}]
+
+2020-05-11 17:02:39,457 INFO add listener: com.alibaba.nacos.naming.domains.meta.00-00---000-NACOS_SWITCH_DOMAIN-000---00-00
+
+2020-05-11 17:02:39,472 INFO add listener: com.alibaba.nacos.naming.domains.meta.
+
+2020-05-11 17:02:43,433 INFO server list is updated, new: 1 servers: [{"adWeight":0,"alive":false,"ip":"192.168.47.1","key":"192.168.47.1:8848","lastRefTime":0,"lastRefTimeStr":"","servePort":8848,"site":"unknown","weight":1}]
+
+2020-05-11 17:02:43,433 INFO server list is updated, dead: 1, servers: [{"adWeight":0,"alive":false,"ip":"192.168.47.1","key":"192.168.47.1:0","lastRefTime":0,"lastRefTimeStr":"","servePort":0,"site":"unknown","weight":1}]
+
+2020-05-11 17:02:43,433 INFO raft peers changed: [{"adWeight":0,"alive":false,"ip":"192.168.47.1","key":"192.168.47.1:8848","lastRefTime":0,"lastRefTimeStr":"","servePort":8848,"site":"unknown","weight":1}]
+
+2020-05-11 17:02:46,443 INFO raft peers changed: [{"adWeight":0,"alive":false,"ip":"192.168.47.1","key":"192.168.47.1:8848","lastRefTime":0,"lastRefTimeStr":"","servePort":8848,"site":"unknown","weight":1}]
+
+2020-05-11 17:03:02,916 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@providers:com.learn.dubbo.api.HiService::
+
+2020-05-11 17:03:03,072 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:dubbo-provider
+
+2020-05-11 17:03:03,104 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@dubbo-provider
+
+2020-05-11 17:03:39,151 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@consumers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:dubbo-provider
+
+2020-05-11 17:03:39,357 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@consumers:com.learn.dubbo.api.HiService::
+
+2020-05-11 17:12:53,611 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@providers:com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:dubbo-consumer
+
+2020-05-11 17:12:53,630 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@dubbo-consumer
+
