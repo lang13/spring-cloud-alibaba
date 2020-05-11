@@ -436,3 +436,67 @@ Caused by: org.apache.derby.iapi.error.StandardException: Syntax error: Encounte
 	at org.apache.derby.impl.sql.GenericStatement.prepare(Unknown Source)
 	at org.apache.derby.impl.sql.conn.GenericLanguageConnectionContext.prepareInternalStatement(Unknown Source)
 	... 36 common frames omitted
+2020-05-11 16:54:31,728 INFO Starting Nacos v1.2.1 on OTMC1I308I40OMM with PID 15620 (D:\JAVA\spring-cloud-alibaba\spring-cloud-alibaba-nacos\nacos-server-1.2.1\nacos\target\nacos-server.jar started by Administrator in D:\JAVA\spring-cloud-alibaba\spring-cloud-alibaba-nacos\nacos-server-1.2.1\nacos\bin)
+
+2020-05-11 16:54:31,728 INFO The following profiles are active: standalone
+
+2020-05-11 16:54:33,548 INFO Bean 'org.springframework.security.config.annotation.configuration.ObjectPostProcessorConfiguration' of type [org.springframework.security.config.annotation.configuration.ObjectPostProcessorConfiguration$$EnhancerBySpringCGLIB$$47895b0c] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2020-05-11 16:54:33,641 INFO Bean 'objectPostProcessor' of type [org.springframework.security.config.annotation.configuration.AutowireBeanFactoryObjectPostProcessor] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2020-05-11 16:54:33,641 INFO Bean 'org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler@2ab4bc72' of type [org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2020-05-11 16:54:33,657 INFO Bean 'org.springframework.security.config.annotation.method.configuration.GlobalMethodSecurityConfiguration' of type [org.springframework.security.config.annotation.method.configuration.GlobalMethodSecurityConfiguration$$EnhancerBySpringCGLIB$$6c5dfdbe] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2020-05-11 16:54:33,657 INFO Bean 'methodSecurityMetadataSource' of type [org.springframework.security.access.method.DelegatingMethodSecurityMetadataSource] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2020-05-11 16:54:34,409 INFO Tomcat initialized with port(s): 8848 (http)
+
+2020-05-11 16:54:34,437 INFO Starting service [Tomcat]
+
+2020-05-11 16:54:34,437 INFO Starting Servlet Engine: Apache Tomcat/9.0.13
+
+2020-05-11 16:54:34,452 INFO The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [D:\JDK\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;D:\Program Files\AdoptOpenJDK\jdk-8.0.242.08-openj9\bin;D:\Program Files (x86)\NetSarang\Xftp 6\;D:\Program Files (x86)\NetSarang\Xshell 6\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;D:\JDK\bin;D:\Android\android-sdk-windows\tools;D:\Android\android-sdk-windows\build-tools;D:\Android\android-sdk-windows\platform-tools;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\iCLS\;C:\Program Files\Intel\Intel(R) Management Engine Components\iCLS\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;D:\Tomcat\bin;D:\maven\bin; ;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;D:\Program Files\Git\cmd;D:\Program Files\MATLAB\R2018a\runtime\win64;D:\Program Files\MATLAB\R2018a\bin;D:\Program Files\TortoiseGit\bin;;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;D:\Microsoft VS Code\bin;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;.]
+
+2020-05-11 16:54:34,538 INFO Initializing Spring embedded WebApplicationContext
+
+2020-05-11 16:54:34,538 INFO Root WebApplicationContext: initialization completed in 2763 ms
+
+2020-05-11 16:54:36,239 INFO Reflections took 47 ms to scan 1 urls, producing 6 keys and 24 values 
+
+2020-05-11 16:54:36,285 INFO Reflections took 15 ms to scan 1 urls, producing 2 keys and 12 values 
+
+2020-05-11 16:54:36,285 INFO Reflections took 0 ms to scan 1 urls, producing 3 keys and 15 values 
+
+2020-05-11 16:54:38,676 INFO Use Mysql as the driver
+
+2020-05-11 16:54:39,461 INFO Initializing ExecutorService 'applicationTaskExecutor'
+
+2020-05-11 16:54:39,693 INFO Adding welcome page: class path resource [static/index.html]
+
+2020-05-11 16:54:40,075 INFO Creating filter chain: Ant [pattern='/**'], []
+
+2020-05-11 16:54:40,122 INFO Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@3829ac1, org.springframework.security.web.context.SecurityContextPersistenceFilter@5b04476e, org.springframework.security.web.header.HeaderWriterFilter@485a3466, org.springframework.security.web.csrf.CsrfFilter@546ccad7, org.springframework.security.web.authentication.logout.LogoutFilter@4a335fa8, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@6bb75258, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@2783717b, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@4baf352a, org.springframework.security.web.session.SessionManagementFilter@2b43529a, org.springframework.security.web.access.ExceptionTranslationFilter@1623134f]
+
+2020-05-11 16:54:40,250 INFO Exposing 2 endpoint(s) beneath base path '/actuator'
+
+2020-05-11 16:54:40,288 INFO Initializing ExecutorService 'taskScheduler'
+
+2020-05-11 16:54:40,424 INFO Tomcat started on port(s): 8848 (http) with context path '/nacos'
+
+2020-05-11 16:54:40,434 INFO Started Nacos in 9.937 seconds (JVM running for 10.49)
+
+2020-05-11 16:54:40,434 INFO Nacos logs files: D:\JAVA\spring-cloud-alibaba\spring-cloud-alibaba-nacos\nacos-server-1.2.1\nacos\logs\
+
+2020-05-11 16:54:40,435 INFO Nacos conf files: D:\JAVA\spring-cloud-alibaba\spring-cloud-alibaba-nacos\nacos-server-1.2.1\nacos\conf\
+
+2020-05-11 16:54:40,435 INFO Nacos data files: D:\JAVA\spring-cloud-alibaba\spring-cloud-alibaba-nacos\nacos-server-1.2.1\nacos\data\
+
+2020-05-11 16:54:40,436 INFO Nacos started successfully in stand alone mode.
+
+2020-05-11 16:54:40,509 INFO Initializing Spring DispatcherServlet 'dispatcherServlet'
+
+2020-05-11 16:54:40,509 INFO Initializing Servlet 'dispatcherServlet'
+
+2020-05-11 16:54:40,521 INFO Completed initialization in 11 ms
+

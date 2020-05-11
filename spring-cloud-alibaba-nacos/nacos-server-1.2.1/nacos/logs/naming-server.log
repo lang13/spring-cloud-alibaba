@@ -5026,3 +5026,66 @@ java.lang.IllegalArgumentException: server: 192.168.47.1:8848 is not in serverli
 2020-05-11 14:36:54,345 INFO receive config info: unknown#192.168.47.1:8848#1589179014345#4
 
 
+2020-05-11 16:54:37,625 ERROR [NACOS-PUSH] failed to init push service
+
+2020-05-11 16:54:37,677 INFO listen for service meta change
+
+2020-05-11 16:54:40,426 INFO [SERVER-INIT] got port: 8848
+
+2020-05-11 16:54:40,426 INFO [SERVER-INIT] got path: /nacos
+
+2020-05-11 16:54:41,857 INFO receive config info: unknown#192.168.47.1:8848#1589187281857#4
+
+
+2020-05-11 16:54:43,867 INFO [NACOS-DISTRO] healthy server list changed, old: [], new: [{"adWeight":0,"alive":true,"ip":"192.168.47.1","key":"192.168.47.1:8848","lastRefTime":1589187281857,"lastRefTimeStr":"2020-05-11 16:54:41","servePort":8848,"site":"unknown","weight":4}]
+
+2020-05-11 16:54:43,867 INFO [NACOS-DISTRO] disable health check for 60000 ms from now on.
+
+2020-05-11 16:54:43,867 INFO receive config info: unknown#192.168.47.1:8848#1589187283867#4
+
+
+2020-05-11 16:54:45,873 INFO receive config info: unknown#192.168.47.1:8848#1589187285873#4
+
+
+2020-05-11 16:54:47,879 INFO receive config info: unknown#192.168.47.1:8848#1589187287879#4
+
+
+2020-05-11 16:54:49,880 INFO receive config info: unknown#192.168.47.1:8848#1589187289880#4
+
+
+2020-05-11 16:54:51,885 INFO receive config info: unknown#192.168.47.1:8848#1589187291885#4
+
+
+2020-05-11 16:54:53,888 INFO receive config info: unknown#192.168.47.1:8848#1589187293888#4
+
+
+2020-05-11 16:54:55,893 INFO receive config info: unknown#192.168.47.1:8848#1589187295893#4
+
+
+2020-05-11 16:54:57,894 INFO receive config info: unknown#192.168.47.1:8848#1589187297894#4
+
+
+2020-05-11 16:54:59,897 INFO receive config info: unknown#192.168.47.1:8848#1589187299897#4
+
+
+2020-05-11 16:55:01,901 INFO receive config info: unknown#192.168.47.1:8848#1589187301901#4
+
+
+2020-05-11 16:55:03,902 INFO receive config info: unknown#192.168.47.1:8848#1589187303902#4
+
+
+2020-05-11 16:55:05,904 INFO receive config info: unknown#192.168.47.1:8848#1589187305904#4
+
+
+2020-05-11 16:55:07,907 INFO receive config info: unknown#192.168.47.1:8848#1589187307907#4
+
+
+2020-05-11 16:55:09,909 INFO receive config info: unknown#192.168.47.1:8848#1589187309909#4
+
+
+2020-05-11 16:55:11,929 INFO receive config info: unknown#192.168.47.1:8848#1589187311929#4
+
+
+2020-05-11 16:55:13,945 INFO receive config info: unknown#192.168.47.1:8848#1589187313945#4
+
+

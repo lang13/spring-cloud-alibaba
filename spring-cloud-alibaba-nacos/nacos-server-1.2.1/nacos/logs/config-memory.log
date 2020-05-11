@@ -1968,3 +1968,23 @@
 
 2020-05-11 14:36:50,929 INFO [long-pulling] client count 0
 
+2020-05-11 16:54:38,206 INFO [long-pulling] client count 0
+
+2020-05-11 16:54:48,113 INFO toNotifyTaskSize=0
+
+2020-05-11 16:54:48,113 INFO groupCount=3, subscriberClientCount=0, subscriberCount=0
+
+2020-05-11 16:54:48,222 INFO [long-pulling] client count 0
+
+2020-05-11 16:54:58,129 INFO groupCount=3, subscriberClientCount=0, subscriberCount=0
+
+2020-05-11 16:54:58,129 INFO toNotifyTaskSize=0
+
+2020-05-11 16:54:58,225 INFO [long-pulling] client count 0
+
+2020-05-11 16:55:08,141 INFO toNotifyTaskSize=0
+
+2020-05-11 16:55:08,141 INFO groupCount=3, subscriberClientCount=0, subscriberCount=0
+
+2020-05-11 16:55:08,236 INFO [long-pulling] client count 0
+
